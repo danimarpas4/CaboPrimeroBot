@@ -3772,86 +3772,6 @@
     {
         "capitulo": 2,
         "bloque": 3,
-        "tema": 2,
-        "titulo_tema": "Fusil HK G-36E",
-        "pregunta": "¿Qué tipo de funcionamiento tiene el fusil HK G-36E?",
-        "opciones": ["Automático, por retroceso de masas", "Automático, por toma de gases con cierre de cabeza giratoria", "Semiautomático, por inercia retardada", "De repetición manual"],
-        "correcta": 1,
-        "explicacion": "📚 Datos Generales.\nEl fusil G36 E es un arma de funcionamiento automático, por toma de gases con cierre de cabeza giratoria."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 2,
-        "titulo_tema": "Fusil HK G-36E",
-        "pregunta": "HK G-36E. ¿De qué material están fabricados el cajón de mecanismos, la empuñadura, el culatín y el guardamanos?",
-        "opciones": ["Acero estampado", "Aleación ligera de aluminio", "Material sintético altamente resistente", "Madera laminada"],
-        "correcta": 2,
-        "explicacion": "📚 Datos Generales.\nEstán fabricados de material sintético altamente resistente, resultando un arma muy ligera."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 2,
-        "titulo_tema": "Fusil HK G-36E",
-        "pregunta": "¿Cuál es la capacidad del cargador estándar del HK G-36E?",
-        "opciones": ["20 cartuchos", "25 cartuchos", "30 cartuchos", "35 cartuchos"],
-        "correcta": 2,
-        "explicacion": "📚 Datos Generales.\nEl arma se alimenta mediante cargadores de petaca de 30 cartuchos, que pueden acoplarse unos a otros."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 2,
-        "titulo_tema": "Fusil HK G-36E",
-        "pregunta": "¿Dónde va integrado el visor óptico del fusil?",
-        "opciones": ["En el guardamanos", "En el asa de transporte", "Sobre el cañón", "En la culata"],
-        "correcta": 1,
-        "explicacion": "📚 Datos Generales.\nEl visor óptico va integrado en el asa de transporte."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 2,
-        "titulo_tema": "Fusil HK G-36E",
-        "pregunta": "HK G-36E. Si se produce una interrupción por 'Vaina no expulsada', ¿cuál puede ser una causa probable?",
-        "opciones": ["Aguja percutora rota", "Recámara sucia o extractor roto", "Cargador mal colocado", "Seguro puesto"],
-        "correcta": 1,
-        "explicacion": "📚 Tabla de Interrupciones.\nVaina no expulsada: Recámara sucia, extractor roto o muelle del extractor roto."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 2,
-        "titulo_tema": "Fusil HK G-36E",
-        "pregunta": "HK G-36E. Si observamos una 'Expulsión violenta de vainas', ¿a qué se debe generalmente?",
-        "opciones": ["El ajuste del brocal está graduado para un paso de gases demasiado pequeño", "A que el muelle recuperador está muy fuerte", "A que la munición es defectuosa", "A que el cierre está sucio"],
-        "correcta": 0,
-        "explicacion": "📚 Tabla de Interrupciones.\nExpulsión violenta... Causa: El ajuste del brocal está graduado para un paso de gases demasiado pequeño"
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 2,
-        "titulo_tema": "Fusil HK G-36E",
-        "pregunta": "HK G-36E. ¿Es necesario utilizar herramientas especiales para el desmontaje básico de limpieza?",
-        "opciones": ["Sí, un destornillador plano", "Sí, un botador especial", "No, se desmonta con facilidad sin herramientas", "Sí, la llave del HK"],
-        "correcta": 2,
-        "explicacion": "📚 Datos Generales.\nEl fusil G36 E se desmonta con facilidad en sus componentes principales, sin necesidad de herramientas."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 2,
-        "titulo_tema": "Fusil HK G-36E",
-        "pregunta": "¿Qué característica especial tienen los cargadores del HK G-36?",
-        "opciones": ["Son metálicos e inoxidables", "Tienen un indicador de carga digital", "Pueden acoplarse unos a otros", "Son desechables"],
-        "correcta": 2,
-        "explicacion": "📚 Datos Generales.\nCargadores de petaca de 30 cartuchos, que pueden acoplarse unos a otros."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
         "tema": 3,
         "titulo_tema": "Pistola HK USP",
         "pregunta": "¿Cuál es el calibre de la pistola HK USP reglamentaria?",
@@ -3950,345 +3870,85 @@
         "explicacion": "📚 Despiece.\nEl conjunto de recuperación formado por el muelle recuperador y su varilla guía es una pieza independiente en el despiece básico."
     },
     {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "¿Cuál es el calibre de la ametralladora MG-42?",
-        "opciones": ["5.56 x 45 mm", "7.62 x 51 mm NATO", "12.70 mm", "9 mm Parabellum"],
-        "correcta": 1,
-        "explicacion": "Datos Técnicos.\nEl calibre de la ametralladora MG-42 es 7.62 x 51 mm NATO."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "¿Cuál es el principio de funcionamiento de la MG-42?",
-        "opciones": ["Toma de gases", "Retroceso de masas de largo recorrido", "Retroceso del cañón (corto recorrido) con cierre de rodillos", "Inercia de masas pura"],
-        "correcta": 2,
-        "explicacion": "Funcionamiento.\nFunciona por el principio de retroceso del cañón (corto recorrido) y utiliza un sistema de acerrojamiento por rodillos."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "MG-42. ¿Cómo se realiza la alimentación de la ametralladora?",
-        "opciones": ["Mediante cargadores de petaca de 30 cartuchos", "Mediante cinta de eslabón irreintegrable (desintegrable)", "Mediante tambor de 100 cartuchos", "Mediante peine de 5 cartuchos"],
-        "correcta": 1,
-        "explicacion": "Alimentación.\nLa alimentación se realiza mediante cinta de eslabón irreintegrable (generalmente de 50 cartuchos, que pueden empalmarse)."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "¿Qué tipo de refrigeración tiene el cañón de la MG-42?",
-        "opciones": ["Por agua", "Por aire, con cambio rápido de cañón", "Por aceite", "No tiene sistema de refrigeración"],
-        "correcta": 1,
-        "explicacion": "Características.\nLa refrigeración es por aire. Debido a su alta cadencia de fuego, dispone de un sistema de cambio rápido de cañón para evitar el sobrecalentamiento."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "MG-42. En ambientes secos y polvorientos (desiertos), ¿cómo debe ser el engrase del arma?",
-        "opciones": ["Abundante para evitar la fricción", "Moderado", "Debe evitarse el exceso de grasa, estando más segura seca y limpia", "Solo con aceite de motor"],
-        "correcta": 2,
-        "explicacion": "Mantenimiento.\nEn ambientes secos y polvorientos... un arma excesivamente engrasada está más expuesta a interrupciones que estando seca y limpia, sin engrase alguno."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "MG-42. ¿Quién debe llevar a cabo las inspecciones técnicas del arma?",
-        "opciones": ["El usuario del arma", "El jefe de pelotón", "Los especialistas con las herramientas adecuadas", "El oficial de servicio"],
-        "correcta": 2,
-        "explicacion": "Mantenimiento.\nLas inspecciones técnicas se llevan a cabo por los especialistas con las herramientas adecuadas, tales como medidores, calibradores, etc."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "¿Qué cadencia teórica tiene la MG-42?",
-        "opciones": ["1.250 dpm", "1.300 dpm", "1.350 dpm", "1.200 dpm"],
-        "correcta": 1,
-        "explicacion": "Datos Técnicos.\nCadencia teórica: 1.300 dpm."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "Si empleamos la MG-42 sobre trípode, ¿cuál es su alcance máximo?",
-        "opciones": ["800 metros", "4.000 metros", "2.500 metros", "3.000 metros"],
-        "correcta": 1,
-        "explicacion": "Datos Técnicos.\n Alcance máximo 4.000m."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "¿Cuál es la cadencia de tiro teórica aproximada de la MG-42?",
-        "opciones": ["600 disparos/minuto", "800 disparos/minuto", "1.300 disparos/minuto", "1.800 disparos/minuto"],
-        "correcta": 2,
-        "explicacion": "Datos Técnicos.\nLa MG-42 se caracteriza por una cadencia de tiro muy elevada, situada teóricamente en 1.300 disparos por minuto."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 4,
-        "titulo_tema": "Ametralladora MG-42",
-        "pregunta": "MG-42. ¿Qué elemento se utiliza para montar el arma (llevar el cierre atrás)?",
-        "opciones": ["El disparador", "La palanca de montar", "El guardamonte", "La ventana de alimentación"],
-        "correcta": 1,
-        "explicacion": "Manejo.\nPara montar el arma se utiliza la palanca de montar, tirando de ella enérgicamente hacia atrás."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué rama de la balística estudia el movimiento del proyectil en la atmósfera?",
-        "opciones": ["Balística Interior", "Balística Exterior", "Balística de Efectos", "Balística Terminal"],
-        "correcta": 1,
-        "explicacion": "📚 Balística.\nDenominamos balística al estudio del movimiento del proyectil... en la atmósfera (balística exterior)."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué elementos componen el 'disparo' según la balística interior?",
-        "opciones": ["El arma, el tirador y el objetivo", "El proyectil, la carga de proyección y el artificio de fuego", "La vaina, la bala y el pistón", "El cañón, el cierre y el disparador"],
-        "correcta": 1,
-        "explicacion": "📚 Balística Interior.\nEstos elementos son el proyectil o sólido que se lanza, la carga de proyección... y el artificio de fuego que activa la carga."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "En un cartucho, ¿dónde se aloja la cápsula fulminante?",
-        "opciones": ["En la ojiva de la bala", "En el cuerpo de la vaina", "En el culote de la vaina", "En el interior de la carga de proyección"],
-        "correcta": 2,
-        "explicacion": "📚 Balística Interior.\nEn la parte inferior de la vaina se encuentra el culote, donde se aloja la cápsula fulminante, artificio de dar fuego."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué define a la munición con balas incendiarias?",
-        "opciones": ["Que explota por impacto", "Que contiene un núcleo duro perforante", "Que contiene una mezcla química que se inflama al contacto con el aire o por impacto", "Que deja una estela visible en su trayectoria"],
-        "correcta": 2,
-        "explicacion": "📚 Tipos de munición.\nMunición con balas incendiarias: la munición... con balas que contengan una mezcla química que se inflama al contacto con el aire o por impacto."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es el agrupamiento?",
-        "opciones": ["La tendencia de los disparos a concentrarse en un punto determinado", "La probabilidad de acertar en el blanco", "El conjunto de impactos obtenidos sobre el terreno o blanco", "El centro geométrico del agrupamiento"],
-        "correcta": 2,
-        "explicacion": "📚 Agrupamiento.\nEl conjunto de impactos obtenidos sobre el terreno o blanco, con un arma que dispara un número limitado de proyectiles con los mismos datos de tiro."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es el centro de impactos?",
-        "opciones": ["El centro geométrico del agrupamiento", "La probabilidad de acertar en el blanco", "El conjunto de impactos obtenidos sobre el terreno o blanco", "El centro geométrico del grupamiento"],
-        "correcta": 0,
-        "explicacion": "📚 Agrupamiento.\nEl centro geométrico del agrupamiento es el punto central del conjunto de impactos obtenidos sobre el terreno o blanco."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es la derivación?",
-        "opciones": ["Es la derivación de los puntos de caída de los proyectiles respecto al plano de tiro", "Es la desviación de los puntos de caída de los proyectiles respecto al plano de tiro", "El conjunto de impactos obtenidos sobre el terreno o blanco", "El centro geométrico del agrupamiento"],
-        "correcta": 1,
-        "explicacion": "📚 Agrupamiento.\nEs la desviación de los puntos de caída de los proyectiles respecto al plano de tiro, producida por el movimiento de rotación producido por las estrías."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es el tiro exacto?",
-        "opciones": ["Es aquel que es correcto y preciso", "Aquel que corresponde a un agrupamiento de pequeña magnitud", "El conjunto de impactos obtenidos sobre el terreno o blanco", "Aquel que corresponde a un agrupamiento cuyo centro de impactos coincide con el centro del blanco."],
-        "correcta": 0,
-        "explicacion": "📚 Tiro exacto.\nEl tiro exacto es aquel que es correcto y preciso."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es el tiro preciso?",
-        "opciones": ["Es aquel que es correcto y preciso", "Aquel que corresponde a un agrupamiento de pequeña magnitud", "El conjunto de impactos obtenidos sobre el terreno o blanco", "Aquel que corresponde a un agrupamiento cuyo centro de impactos coincide con el centro del blanco."],
-        "correcta": 1,
-        "explicacion": "📚 Tiro preciso.\nEl tiro preciso es aquel que corresponde a un agrupamiento de pequeña magnitud."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es el tiro correcto o corregido?",
-        "opciones": ["Es aquel que es correcto y preciso", "Aquel que corresponde a un agrupamiento de pequeña magnitud", "El conjunto de impactos obtenidos sobre el terreno o blanco", "Aquel que corresponde a un agrupamiento cuyo centro de impactos coincide con el centro del blanco."],
-        "correcta": 3,
-        "explicacion": "📚 Tiro correcto o corregido.\nEl tiro correcto o corregido es aquel que corresponde a un agrupamiento cuyo centro de impactos coincide con el centro del blanco."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es la dispersión?",
-        "opciones": ["Es la desviación de los puntos de caída de los proyectiles respecto al plano de tiro", "Fenómeno que se manifiesta por la distribuciión sobre una zona, al efectuar una serie de disparos con el mismo arma", "Cuando el tte se queda empantallao y no responde", "Aquel que corresponde a un agrupamiento cuyo centro de impactos coincide con el centro del blanco."],
-        "correcta": 1,
-        "explicacion": "📚 Dispersión.\nLa dispersión es un fenómeno que se manifiesta por la distribución sobre una zona, al efectuar una serie de disparos con el mismo arma, en idénticas condiciones y sobre el mismo objetivo."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Cuáles pueden ser las causas de la dispersión?",
-        "opciones": ["Tipo de arma", "Desgaste y temperatura del arma", "La cadencia del arma", "Que el tirador no sepa apuntar"],
-        "correcta": 1,
-        "explicacion": "📚 Dispersión.\nLas causas de la dispersión son múltiples: desgaste y temperatura del arma, pequeñas variacones en las características del proyectil, condiciones atmosféricas, etc."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "Si el error del disparo es mayor que el error máximo, el disparo se llama ________",
-        "opciones": ["Tenso", "Anormal", "Subnormal", "Erróneo"],
-        "correcta": 1,
-        "explicacion": "📚 Dispersión.\nSi el error del disparo es mayor que el error máximo, el disparo se llama anormal."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Cuál es el objetivo del fuego de destrucción?",
-        "opciones": ["Destruir el blanco", "Hacer daño a los civiles", "Proteger a los civiles", "Inutilizar al personal, medios y obras de fortificación del enemigo."],
-        "correcta": 3,
-        "explicacion": "📚 Feugo de destrucción.\nInutilizar al personal, medios y obras de fortificación del enemigo."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Cuál es el objetivo del fuego de hostigamiento?",
-        "opciones": ["Destruir el blanco", "Hacer peligrosa la permanencia en ciertas zonas", "Inutilizar al personal, medios y obras de fortificación del enemigo.", "Obligar al enemigo a retirarse"],
-        "correcta": 1,
-        "explicacion": "📚 Fuego de hostigamiento.\nHacer peligrosa la permanencia en ciertas zonas, dificultando la actividad o el descanso del enemigo."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Cuando se dice que un tiro es tenso?",
-        "opciones": ["Cuando el ángulo de tiro está comprendido entre 240 y 800 milésimas.", "Cuando el ángulo de tiro es inferior a 240 milésimas(13, 5º)", "Cuando el ángulo de tiro es inferior a 250 milésimas(13, 5º)", "Ángulo superior a 800 milésimas."],
-        "correcta": 1,
-        "explicacion": "📚 Tiro tenso.\nCuando el ángulo de tiro es inferior a 240 milésimas(13, 5º)"
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es un tiro de flanco?",
-        "opciones": ["Cuando el plano de tiro incide perpendicularmente sobre el plano anterior del objetivo", "Cuando el plano de tiro incide perpendicularmente sobre el plano posterior del objetivo", "Cuando el plano de tiro no incide", "en cualquier otro caso distinto al de enfilada"],
-        "correcta": 1,
-        "explicacion": "📚 Tiro de flanco.\nCuando el plano de tiro incide perpendicularmente sobre el plano posterior del objetivo"
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué es un arma de repetición?",
-        "opciones": ["Arma que se recarga después de cada disparo", "Arma que solo puede dispararse una vez", "Arma que requiere un mecanismo especial para disparar", "Arma que se dispara con un solo dedo"],
-        "correcta": 0,
-        "explicacion": "📚 Arma de repetición.\nArma que se recarga después de cada disparo, mediante un mecanismo accionado por el tirador que introduce en el cañón un cartucho colocado previamente en el depósito de municiones."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "Según el Reglamento de Armas, ¿qué se considera un arma de fuego corta (1ª Categoría)?",
-        "opciones": ["Aquella cuyo cañón no exceda de 20 cm o longitud total no exceda de 40 cm", "Aquella cuyo cañón no exceda de 30 cm o longitud total no exceda de 60 cm", "Cualquier pistola o revólver independientemente de su medida", "Aquella que puede dispararse con una sola mano"],
-        "correcta": 1,
-        "explicacion": "📚 Clasificación de las armas.\n1ª Categoría: armas de fuego cortas; armas cuyo cañón no exceda de 30 centímetros o cuya longitud total no exceda de 60 centímetros."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿En qué categoría se clasifican las armas de fuego largas para vigilancia y guardería?",
-        "opciones": ["1ª Categoría", "2ª Categoría", "3ª Categoría", "7ª Categoría"],
-        "correcta": 1,
-        "explicacion": "📚 Clasificación de las armas.\n2ª Categoría: arma de fuego larga... Comprende las armas de fuego largas para vigilancia y las armas de fuego largas rayadas para caza mayor."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Qué armas comprende la 4ª Categoría?",
-        "opciones": ["Armas blancas", "Armas de fuego antiguas o históricas", "Carabinas y pistolas accionadas por aire u otro gas comprimido", "Escopetas de caza"],
-        "correcta": 2,
-        "explicacion": "📚 Clasificación de las armas.\n4ª Categoría: carabinas, revólveres y pistolas accionadas por aire u otro gas comprimido no asimiladas a escopetas."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿A qué categoría pertenecen las armas blancas (cuchillos, machetes, etc.)?",
-        "opciones": ["4ª Categoría", "5ª Categoría", "6ª Categoría", "7ª Categoría"],
-        "correcta": 1,
-        "explicacion": "📚 Clasificación de las armas.\n5ª Categoría: armas blancas."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿En qué categoría se incluyen las ballestas, arcos y fusiles de pesca submarina?",
-        "opciones": ["3ª Categoría", "5ª Categoría", "6ª Categoría", "7ª Categoría"],
-        "correcta": 3,
-        "explicacion": "📚 Clasificación de las armas.\n7ª Categoría: otras armas; comprende las de inyección anestésica, ballestas, arcos, fusiles de pesca submarina..."
-    },
-    {
-        "capitulo": 2,
-        "bloque": 3,
-        "tema": 5,
-        "titulo_tema": "Teoría del Tiro",
-        "pregunta": "¿Cuál es la función principal de la vaina en un cartucho?",
-        "opciones": ["Perforar el objetivo", "Dar impulso a la bala", "Contener la carga de proyección y alojar la cápsula fulminante", "Dirigir el proyectil en el cañón"],
-        "correcta": 2,
-        "explicacion": "📚 Balística Interior.\nLa vaina, que en su interior se encuentra la carga de proyección... y en la parte inferior... se aloja la cápsula fulminante."
-    }  
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "Irregular Verbs",
+    "pregunta": "El verbo quemar, en presente, pasado y participio, respectivamente, es: burn, burnt y _____.",
+    "opciones": [
+      "burned",
+      "burnt",
+      "burning",
+      "burnt"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Irregular Verbs.\n burn burnt burnt = quemar"
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "Irregular Verbs",
+    "pregunta": "El verbo romper, en presente, pasado y participio, respectivamente, es: break, broke y _____.",
+    "opciones": [
+      "broked",
+      "broken",
+      "broke",
+      "broking"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Irregular Verbs.\n break broke broken = romper"
+  }
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "Irregular Verbs",
+    "pregunta": "Marca la traducción correcta a estas dos frases: ¿ibas a ser amado/ a (tú)?;¿iba a ser amado/ a (usted)?",
+    "opciones": [
+      "Were you going to be loved?",
+      "Would you be loved?",
+      "Would you not be loved?",
+      "Was I going to be loved?"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Correct option:\n Were you going to be loved?"
+  }
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "Irregular Verbs",
+    "pregunta": "CORRECT THE FOLLOWING SENTENCES IF NECESSARY:  Sally don’t must miss lectures.",
+    "opciones": [
+      " Sally mustn’t miss lectures.",
+      " Sally should miss lectures.",
+      " Sally mustmiss lectures.",
+      " The sentence is correct."
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Correct option:\n Sally mustn’t miss lectures."
+  }
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "Irregular Verbs",
+    "pregunta": "FILL EACH OF THE FOLLOWING GAPS WITH THEMODAL VERBS GIVEN IN BRACKETS IN THEAFFIRMATIVE OR NEGATIVE FORM:  (Can’t/May) _____ I make a call on your mobile?",
+    "opciones": [
+      "Could I make a call on your mobile?",
+      "Might I make a call on your mobile?",
+      "May I make a call on your mobile?",
+      "Can I make a call on your mobile?"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Correct option:\n May I make a call on your mobile?"
+  }
 ]
 
 
