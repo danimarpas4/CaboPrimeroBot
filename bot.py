@@ -19,12 +19,10 @@ logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=lo
 def init_db():
     conn = sqlite3.connect('stats.db')
     cursor = conn.cursor()
-    # Añadimos la columna MATERIA para diferenciar Inglés, Geografía, etc.
     cursor.execute('''CREATE TABLE IF NOT EXISTS encuestas 
                       (poll_id TEXT PRIMARY KEY, materia TEXT, tema TEXT, aciertos INTEGER, 
                        total INTEGER, fecha TEXT, pregunta_texto TEXT)''')
     
-    # Lógica de migración: Si la tabla existe pero no tiene la columna 'materia'
     try:
         cursor.execute("SELECT materia FROM encuestas LIMIT 1")
     except sqlite3.OperationalError:
@@ -37,21 +35,26 @@ def init_db():
 init_db()
 
 # --- CARGA DE PREGUNTAS ---
-# Prioriza el archivo de Cabo Primero
 filename = 'preguntas_primero.json' if os.path.exists('preguntas_primero.json') else 'preguntas.json'
 with open(filename, 'r', encoding='utf-8') as f:
     preguntas_oficiales = json.load(f)
 
-# --- CONFIGURACIÓN DE COMPARTIR ---
+# --- CONFIGURACIÓN DE DIFUSIÓN MULTIPLATAFORMA ---
 url_privada = "https://t.me/addlist/q57lTY3FZTgwMzBk"
 texto_compartir = (
     "¡Compañero! 🪖\n\nTe comparto este canal de test gratuitos para preparar el ascenso a Cabo y Cabo Primero. "
     "Preguntas oficiales cada hora, simulacros multi-materia y estadísticas reales.\n\n"
-    "Únete al canal y prepárate:"
+    f"Únete aquí: {url_privada}"
 )
-url_tg_share = f"https://t.me/share/url?url={urllib.parse.quote(url_privada)}&text={urllib.parse.quote(texto_compartir)}"
+
+# Enlace para Telegram
+url_tg_share = f"https://t.me/share/url?url={urllib.parse.quote(url_privada)}&text={urllib.parse.quote(texto_compartir.replace(url_privada, ''))}"
+# Enlace para WhatsApp
+url_wa_share = f"https://api.whatsapp.com/send?text={urllib.parse.quote(texto_compartir)}"
+
 keyboard_viral = InlineKeyboardMarkup([
-    [InlineKeyboardButton("⚔️ COMPARTIR CON TUS COMPAÑEROS ⚔️", url=url_tg_share)]
+    [InlineKeyboardButton("✈️ COMPARTIR EN TELEGRAM", url=url_tg_share)],
+    [InlineKeyboardButton("🟢 COMPARTIR EN WHATSAPP", url=url_wa_share)]
 ])
 
 # --- OBTENER SALUDO ---
@@ -91,7 +94,6 @@ def preparar_texto_informe():
     hoy = datetime.now(ZONA_ESP).strftime('%Y-%m-%d')
     conn = sqlite3.connect('stats.db')
     cursor = conn.cursor()
-    # Agrupamos por materia y luego por tema
     cursor.execute("SELECT materia, tema, SUM(aciertos), SUM(total) FROM encuestas WHERE fecha = ? GROUP BY materia, tema", (hoy,))
     rows = cursor.fetchall()
     conn.close()
@@ -107,14 +109,12 @@ def preparar_texto_informe():
     informe = f"📊 **PARTE DE NOVEDADES - {datetime.now(ZONA_ESP).strftime('%d/%m/%Y')}** 📊\n\n"
     informe += f"🎯 **Rendimiento Global de la Unidad:** `{precision_global:.1f}%` ({total_aciertos}/{total_respuestas})\n\n"
     
-    # Estructura para organizar por materia
     materias_dict = {}
     for r in rows:
         m, t, ac, tot = r
         if m not in materias_dict: materias_dict[m] = []
         materias_dict[m].append((t, ac, tot))
     
-    # Generamos el texto por bloques de materia
     for mat, temas in materias_dict.items():
         informe += f"🔹 **{mat.upper()}**\n"
         for t_nombre, t_ac, t_tot in temas:
@@ -127,7 +127,6 @@ def preparar_texto_informe():
     return informe
 
 async def informe_arsenal(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    # Solo el administrador puede pedir el informe manual
     if update.effective_user.id != 113333060: return
     informe = preparar_texto_informe()
     await update.message.reply_text(informe or "Sin datos de actividad hoy.", parse_mode="Markdown")
@@ -152,12 +151,10 @@ async def lanzar_tanda(bot, cantidad, es_simulacro=False, enviar_cierre=True):
     for p in pool:
         if enviadas >= cantidad: break
         
-        # Nueva lógica multi-materia
         materia_label = p.get('materia', 'LEGISLACIÓN').upper()
         tema_label = p.get('titulo_tema', 'GENERAL').upper()
         
         try:
-            # Encabezado visual mejorado con materia
             question_text = f"📜 [{materia_label}] {tema_label}\n\n{p['pregunta']}"[:300]
             
             msg = await bot.send_poll(
@@ -180,7 +177,7 @@ async def lanzar_tanda(bot, cantidad, es_simulacro=False, enviar_cierre=True):
 
     conn.close()
     if enviar_cierre:
-        msg_cierre = "✅ **INSTRUCCIÓN FINALIZADA**\n\nNo dejes a tus compañeros atrás. Comparte el canal para ayudarnos entre nosotros. 👇"
+        msg_cierre = "✅ **INSTRUCCIÓN FINALIZADA**\n\nNo dejes a tus compañeros atrás. Comparte el canal para ayudar a la unidad. 👇"
         await bot.send_message(chat_id=CHAT_ID, text=msg_cierre, reply_markup=keyboard_viral, parse_mode="Markdown")
 
 # --- PROGRAMACIÓN ---
@@ -196,14 +193,10 @@ async def enviar_batch_automatico(context):
     await lanzar_tanda(context.bot, cantidad, es_simulacro=es_finde)
 
 async def cierre_jornada(context):
-    # Lanzar ráfaga final
     await lanzar_tanda(context.bot, 2, es_simulacro=False, enviar_cierre=False)
     await asyncio.sleep(2)
-    
-    # Enviar informe del día desglosado
     informe = preparar_texto_informe()
     await context.bot.send_message(chat_id=CHAT_ID, text=informe or "Sin actividad hoy.", parse_mode="Markdown")
-    
     await asyncio.sleep(2)
     msg_footer = "✅ **PARTE DE NOVEDADES FINALIZADO**\n\nComparte el canal con tu unidad para reforzar el estudio conjunto. 👇"
     await context.bot.send_message(chat_id=CHAT_ID, text=msg_footer, reply_markup=keyboard_viral, parse_mode="Markdown")
@@ -220,7 +213,7 @@ def main():
     app.add_handler(CommandHandler("arsenal", informe_arsenal))
     app.add_handler(PollHandler(track_poll_results))
     
-    print("🚀 Bot Cabo Primero Multi-Materia activo.")
+    print("🚀 Bot Cabo Primero con Difusión Multiplataforma activo.")
     app.run_polling()
 
-if __name__ == '__main__': main()
+if __name__ == '__main__': m

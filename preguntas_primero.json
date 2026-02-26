@@ -3948,7 +3948,486 @@
     ],
     "correcta": 2,
     "explicacion": "📚 Correct option:\n May I make a call on your mobile?"
-  }
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "Inglés - Empleos Militares",
+    "pregunta": "Según el glosario de términos militares, ¿cuál es la traducción correcta al inglés del empleo militar 'Cabo Primero'?",
+    "opciones": [
+        "Corporal",
+        "Full Corporal",
+        "Staff Sergeant",
+        "Corporal Major"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 UNIT 1. En la estructura de empleos ('Rank and file'), 'Corporal' es Cabo, 'Full Corporal' es Cabo Primero y 'Corporal Major' es Cabo Mayor."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 2,
+    "titulo_tema": "Inglés - En el cuartel",
+    "pregunta": "En el vocabulario sobre el cuartel ('In the barracks'), ¿qué término en inglés se emplea para referirse a los 'ejercicios de orden cerrado'?",
+    "opciones": [
+        "Inspection parade",
+        "Military parade",
+        "Drill parade",
+        "March past"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 UNIT 2. 'Drill parade' significa ejercicios de orden cerrado, 'inspection parade' es revista, y 'march past' es desfile."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 3,
+    "titulo_tema": "Inglés - Unidades y mando",
+    "pregunta": "Dentro de las unidades y escalones de mando ('Units and command echelons'), ¿cómo se denomina exactamente a un 'subgrupo táctico'?",
+    "opciones": [
+        "Battalion task group",
+        "Task force",
+        "Company task force",
+        "Brigade headquarters"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 UNIT 3. 'Company task force' se traduce como subgrupo táctico, mientras que 'Battalion task group' equivale a grupo táctico."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 3,
+    "titulo_tema": "Inglés - Unidades y mando",
+    "pregunta": "¿Cuál es la traducción correcta al inglés del término 'oficial segundo en el mando' dentro de una compañía militar?",
+    "opciones": [
+        "Company commander",
+        "Deputy officer",
+        "Warrant Officer",
+        "Leader"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 UNIT 3. 'Deputy officer' es el oficial segundo en el mando, mientras que 'Company commander' es el jefe de la compañía."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "Personal Pronouns and Ranks",
+    "pregunta": "¿Cuál es el término correcto en inglés para designar el empleo militar de 'Cabo Primero' según el manual oficial del MADOC?",
+    "opciones": [
+        "Company commander",
+        "Full Corporal",
+        "Prime Corporal",
+        "Corporal Major"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 1: Military Terms. El manual especifica 'Full Corporal' para el Cabo Primero, situándolo por encima del 'Corporal' y por debajo del 'Corporal Major'."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 2,
+    "titulo_tema": "Verb To Have and Barracks Vocabulary",
+    "pregunta": "Traduzca correctamente la siguiente expresión de propiedad militar: 'El fusil del soldado'.",
+    "opciones": [
+        "The soldier rifle",
+        "The soldier's rifle",
+        "Soldier rifle",
+        "The soldier's rifles"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 2: Saxon Genitive. Para expresar posesión de un ser animado, se utiliza el apóstrofo seguido de 's' tras el poseedor: 'The soldier's rifle'."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 2,
+    "titulo_tema": "Verb To Have and Barracks Vocabulary",
+    "pregunta": "Si un centinela afirma 'I don't have ___ ammunition', ¿cuál es la partícula gramatical correcta para una oración negativa?",
+    "opciones": [
+        "some",
+        "no",
+        "any",
+        "none"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Unit 2: Articles and Indefinites. En oraciones negativas e interrogativas se utiliza 'any' para indicar una cantidad indeterminada."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 3,
+    "titulo_tema": "Units and Command Echelons",
+    "pregunta": "En el contexto de las unidades militares, ¿cómo se traduce correctamente 'subgrupo táctico' al inglés?",
+    "opciones": [
+        "Company task force",
+        "Battalion task group",
+        "Brigade headquarters",
+        "Task force"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Units and Command Echelons. 'Company task force' es la traducción correcta para 'subgrupo táctico', mientras que 'Battalion task group' se refiere a un grupo táctico a nivel de batallón."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 1,
+    "tema": 3,
+    "titulo_tema": "Units and Command Echelons",
+    "pregunta": "¿Qué término define a la unidad militar mínima denominada 'Escuadra' en el temario oficial?",
+    "opciones": [
+        "Fire team",
+        "Battalion task group",
+        "Brigade headquarters",
+        "Squad force"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 3: Military Terms. La 'Fire Team' es la escuadra, mientras que 'Squad' se reserva para el pelotón."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "Identifique la forma comparativa de superioridad correcta en la siguiente descripción técnica: 'The Leopard tank is ____ than the BMR'.",
+    "opciones": [
+        "more heavy",
+        "heavier",
+        "heavyer",
+        "more heavier"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. Los adjetivos bisílabos terminados en 'y' cambian la 'y' por 'i' y añaden 'er' para el comparativo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "En la frase 'The sniper is the ____ soldier in the unit', ¿cuál es la forma superlativa correcta del adjetivo 'deadly'?",
+    "opciones": [
+        "most deadly",
+        "deadliest",
+        "more deadly",
+        "most deadliest"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. Para formar el superlativo de los adjetivos terminados en 'y', se cambia la 'y' por 'i' y se añade 'est'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "¿Cuál es la forma correcta del adjetivo 'strong' en su grado comparativo para describir a un soldado?",
+    "opciones": [
+        "stronger",
+        "more strong",
+        "strongest",
+        "most strong"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. El adjetivo 'strong' forma su comparativo añadiendo 'er', resultando 'stronger'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "En la oración 'The helicopter is ____ than the jeep', ¿qué forma comparativa del adjetivo 'fast' es correcta?",
+    "opciones": [
+        "faster",
+         "more fast",
+         "fastest",
+         "most fast"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. El adjetivo 'fast' forma su comparativo añadiendo 'er', resultando 'faster'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "¿Cuál es la forma superlativa correcta del adjetivo 'intelligent' para describir a un oficial?",
+    "opciones": [
+           "most intelligent",
+           "intelligenter",
+            "more intelligent",
+           "most intelligenter"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. El adjetivo 'intelligent' forma su superlativo añadiendo 'most', resultando 'most intelligent'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "En la frase 'The tank is the ____ vehicle in the battalion', ¿qué forma superlativa del adjetivo 'armored' es correcta?",
+    "opciones": [
+             "most armored",
+             "armoreder",
+             "more armored",
+             "most armoreder"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. El adjetivo 'armored' forma su superlativo añadiendo 'most', resultando 'most armored'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "¿Cuál es la forma comparativa correcta del adjetivo 'stealthy' para describir a un avión de combate?",
+    "opciones": [
+             "stealthier",
+             "more stealthy",
+             "stealthiest",
+             "most stealthy"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. El adjetivo 'stealthy' forma su comparativo cambiando la 'y' por 'i' y añadiendo 'er', resultando 'stealthier'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "En la oración 'The general is the ____ leader in the army', ¿qué forma superlativa del adjetivo 'strategic' es correcta?",
+    "opciones": [
+             "most strategic",
+             "strategicer",
+             "more strategic",
+             "most strategicer"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. El adjetivo 'strategic' forma su superlativo añadiendo 'most', resultando 'most strategic'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "¿Cuál es la forma correcta del adjetivo 'durable' en su grado comparativo para describir a un equipo militar?",
+    "opciones": [
+             "durabler",
+             "more durable",
+             "durablest",
+             "most durable"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 4: Degrees of Comparison. El adjetivo 'durable' forma su comparativo añadiendo 'more', resultando 'more durable'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 2,
+    "tema": 4,
+    "titulo_tema": "The Adjective and Military Specialties",
+    "pregunta": "¿Cuál es la traducción correcta de la especialidad de 'Transmisiones'?",
+    "opciones": [
+             "Interchanges",
+             "Communications",
+             "Transmision",
+             "Señals"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 4: Military Terms. 'Signals' o 'Communications' son los términos estándar para el Arma de Transmisiones."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 3,
+    "tema": 5,
+    "titulo_tema": "The Uniform and Adverbs",
+    "pregunta": "¿Qué término técnico se utiliza para el 'Chaleco Antifragmentación' en el equipo de combate?",
+    "opciones": [
+             "Flak jacket",
+             "Bulletproof vest",
+             "Kevlar vest",
+             "Combat vest"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 5: Military Terms. El 'Flak jacket' es el chaleco diseñado para proteger de la metralla, término específico en el manual del MADOC."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 3,
+    "tema": 5,
+    "titulo_tema": "The Uniform and Adverbs",
+    "pregunta": "Seleccione el adverbio correcto para la siguiente orden: 'The sentry must check the ID cards ____'.",
+    "opciones": [
+             "careful",
+             "carefully",
+             "carefull",
+             "carely"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 5: Grammar. Los adverbios de modo se forman generalmente añadiendo el sufijo '-ly' al adjetivo."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 3,
+    "tema": 5,
+    "titulo_tema": "The Uniform and Adverbs",
+    "pregunta": "¿Cuál es la traducción correcta al inglés del término 'Gorra de Plato' en el uniforme militar?",
+    "opciones": [
+             "Peaked cap",
+             "Beret",
+             "Combat helmet",
+             "Service cap"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 5: Military Terms. La 'Peaked cap' es la gorra de plato, mientras que 'Beret' se refiere a la boina."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 2,
+    "tema": 8,
+    "titulo_tema": "Past Simple and Joint Forces",
+    "pregunta": "Identifique la forma correcta en pasado del verbo 'To See' para un informe: 'The patrol ___ an unidentified drone'.",
+    "opciones": [
+             "seed",
+             "saw",
+             "seen",
+             "sawed"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 8: Past Simple. 'See' es un verbo irregular cuyo pasado simple es 'saw'."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 2,
+    "tema": 8,
+    "titulo_tema": "Past Simple and Joint Forces",
+    "pregunta": "¿Cómo se denomina al 'Portaaviones' en el vocabulario de la Armada?",
+    "opciones": [
+             "Aircraft carrier",
+             "Warship",
+             "Battleship",
+             "Destroyer"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 8: Military Terms. 'Aircraft carrier' es el término estándar para este tipo de buque de guerra."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 4,
+    "bloque": 2,
+    "tema": 9,
+    "titulo_tema": "Wh- Questions and Communications",
+    "pregunta": "En un mensaje cifrado, ¿cuál es la partícula interrogativa correcta para preguntar por la ubicación de una unidad?",
+    "opciones": [
+             "What",
+             "Where",
+             "When",
+             "Who"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 9: Grammar. 'Where' es el pronombre interrogativo utilizado para inquirir sobre el lugar o la posición."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 1,
+    "tema": 10,
+    "titulo_tema": "Present Continuous and Training",
+    "pregunta": "¿Qué término define la acción de avanzar cuerpo a tierra 'reptando' durante la instrucción?",
+    "opciones": [
+             "Crawl",
+             "Creep",
+             "Slide",
+             "Drag"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 10: Military Terms. 'Creep' se utiliza específicamente para reptar, mientras que 'crawl' es gatear o avanzar de rodillas."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 3,
+    "bloque": 2,
+    "tema": 10,
+    "titulo_tema": "Human Body and Health",
+    "pregunta": "Identifique el término correcto para 'Pulmones' en un informe médico militar.",
+    "opciones": [
+             "Lungs",
+             "Liver",
+             "Kidneys",
+             "Chest"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 10: Civilian Vocabulary. 'Lungs' es el término para los pulmones, vital en contextos de ataques NBQ o primeros auxilios."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 3,
+    "bloque": 1,
+    "tema": 11,
+    "titulo_tema": "Future Tense and Rifle Parts",
+    "pregunta": "¿Cómo se denomina la 'ventana de expulsión' de las vainas en un arma automática?",
+    "opciones": [
+             "Ejection port",
+             "Loading gate",
+             "Magazine well",
+             "Chamber"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 11: Military Terms. 'Ejection port' es el término técnico preciso utilizado en los manuales de armamento del ET."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 2,
+    "bloque": 1,
+    "tema": 11,
+    "titulo_tema": "Future Tense and Rifle Parts",
+    "pregunta": "Complete la oración condicional: 'If the Lieutenant ____ the order, the squad will advance'.",
+    "opciones": [
+             "give",
+             "gives",
+             "will give",
+             "gave"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 11: Conditional Sentences. En el primer condicional, la cláusula que sigue a 'if' debe ir en presente simple (Third person: gives). La tercera persona singular añade -s."
+   },
+   {
+    "capitulo": 2,
+    "bloque": 1,
+    "tema": 12,
+    "titulo_tema": "Imperative and Communications",
+    "pregunta": "¿Qué término se utiliza en transmisiones para referirse al 'indicativo' de una unidad?",
+    "opciones": [
+             "Call sign",
+             "Unit name",
+             "Radio code",
+             "Signal code"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 12: Military Terms. 'Call sign' es el término reglamentario para identificar una estación de radio o unidad en red."
+}
 ]
 
 
