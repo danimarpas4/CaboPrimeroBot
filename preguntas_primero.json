@@ -4414,6 +4414,7 @@
     "explicacion": "📚 Unit 11: Conditional Sentences. En el primer condicional, la cláusula que sigue a 'if' debe ir en presente simple (Third person: gives). La tercera persona singular añade -s."
    },
    {
+    "materia": "INGLÉS",
     "capitulo": 2,
     "bloque": 1,
     "tema": 12,
@@ -4427,7 +4428,775 @@
     ],
     "correcta": 0,
     "explicacion": "📚 Unit 12: Military Terms. 'Call sign' es el término reglamentario para identificar una estación de radio o unidad en red."
-}
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 3,
+    "bloque": 2,
+    "tema": 12,
+    "titulo_tema": "First Aid Vocabulary",
+    "pregunta": "Si un soldado sufre una 'congelación' durante un ejercicio invernal, ¿cómo se describe en inglés?",
+    "opciones": [
+             "Freezing",
+             "Frostbite",
+             "Ice burn",
+             "Cold wound"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 12: Military Terms. 'Frostbite' es el término específico para las lesiones producidas por el frío extremo."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 4,
+    "bloque": 1,
+    "tema": 13,
+    "titulo_tema": "Modal Verbs and Offensive Ops",
+    "pregunta": "¿Cuál es el verbo modal correcto para expresar una obligación militar ineludible?",
+    "opciones": [
+             "Should",
+             "Must",
+             "Have to",
+             "Ought to"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 13: Modal Verbs. 'Must' indica una orden u obligación que no admite demora o incumplimiento."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 4,
+    "bloque": 1,
+    "tema": 13,
+    "titulo_tema": "Modal Verbs and Offensive Ops",
+    "pregunta": "¿Cómo se denomina la 'línea de partida' en una operación de asalto?",
+    "opciones": [
+             "Starting line",
+             "Departure line",
+             "Assault line",
+             "Advance line"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 13: Military Terms. 'Departure line' es el término doctrinal para la línea desde la cual se inicia el asalto coordinado."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 4,
+    "bloque": 1,
+    "tema": 14,
+    "titulo_tema": "Passive Voice and Defensive Ops",
+    "pregunta": "Traduzca correctamente la siguiente situación defensiva: 'La trinchera fue fortificada por los zapadores'.",
+    "opciones": [
+             "The trench was fortified by the sappers",
+             "The trench is fortified by the sappers",
+             "The trench has been fortified by the sappers",
+             "The trench will be fortified by the sappers"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 14: Passive Voice. Se utiliza el auxiliar 'be' + participio pasado para formar la pasiva, centrando el interés en la trinchera."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 4,
+    "bloque": 1,
+    "tema": 14,
+    "titulo_tema": "Passive Voice and Defensive Ops",
+    "pregunta": "¿Cómo se traduce al inglés el término 'trampa explosiva'?",
+    "opciones": [
+             "Explosive trap",
+             "Booby trap",
+             "Mine trap",
+             "Hidden explosive"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unit 14: Military Terms. 'Booby trap' es el término estándar militar para cualquier dispositivo explosivo oculto de fabricación casera o reglamentaria."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 4,
+    "bloque": 1,
+    "tema": 15,
+    "titulo_tema": "Peacekeeping Missions and Phrasal Verbs",
+    "pregunta": "En una misión internacional, ¿qué sigla identifica a la Organización del Tratado del Atlántico Norte?",
+    "opciones": [
+             "NATO",
+             "UN",
+             "EU",
+             "OTAN"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 15: Military Terms. NATO es la sigla en inglés (North Atlantic Treaty Organization), equivalente a OTAN en español."
+   },
+   {
+    "materia": "INGLÉS",
+    "capitulo": 4,
+    "bloque": 1,
+    "tema": 15,
+    "titulo_tema": "Peacekeeping Missions and Phrasal Verbs",
+    "pregunta": "Identifique el Phrasal Verb correcto para la orden 'encender la radio'.",
+    "opciones": [
+             "Turn on the radio",
+             "Switch off the radio",
+             "Turn off the radio",
+             "Switch on the radio"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unit 15: Phrasal Verbs. 'Turn on' se utiliza para conectar o encender aparatos eléctricos."
+   },
+   {
+    "materia": "GEOGRAFIA E HISTORIA",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "El medio físico en España: Introducción",
+    "pregunta": "¿Qué posición ocupa España por su extensión territorial dentro del continente europeo?",
+    "opciones": [
+             "Primera",
+             "Segunda",
+             "Tercera",
+             "Cuarta"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unidad 1. España es un Estado Europeo de tamaño medio y el segundo país más extenso de Europa, solo por detrás de Francia."
+   },
+   {
+    "materia": "GEOGRAFIA E HISTORIA",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 2,
+    "titulo_tema": "El relieve español",
+    "pregunta": "¿Cuál es la altitud media aproximada de España y cómo se compara con la media europea?",
+    "opciones": [
+             "330 metros, similar a la media europea",
+             "450 metros, un 20% superior a la europea",
+             "660 metros, casi el doble que la europea",
+             "880 metros, la más alta de todo el continente"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Unidad 1. El relieve español tiene una elevada altitud media de 660 m, lo que supone casi el doble que la media del continente europeo."
+   },
+   {
+    "materia": "GEOGRAFIA E HISTORIA",
+    "capitulo": 1,
+    "bloque": 2,
+    "tema": 2,
+    "titulo_tema": "La población española",
+    "pregunta": "¿Qué Comunidad Autónoma española registra actualmente la mayor densidad de población?",
+    "opciones": [
+             "País Vasco",
+             "Cataluña",
+             "Islas Canarias",
+             "Comunidad de Madrid"
+    ],
+    "correcta": 3,
+    "explicacion": "📚 Unidad 2. La mayor densidad de población se concentra en la Comunidad de Madrid con 724 habitantes por kilómetro cuadrado."
+},
+{
+    "materia": "GEOGRAFIA E HISTORIA",
+    "capitulo": 2,
+    "bloque": 10,
+    "tema": 3,
+    "titulo_tema": "La Edad Media: Predominio cristiano",
+    "pregunta": "¿Qué victoria cristiana de 1212 permitió el control de las comunicaciones del valle del Guadalquivir?",
+    "opciones" :[
+             "Batalla de las Navas de Tolosa",
+             "Batalla de Covadonga",
+             "Batalla de Alarcos",
+             "Batalla de Lepanto"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Unidad 10. En 1212, los reinos cristianos derrotaron a los almohades en la Batalla de las Navas de Tolosa, una de sus victorias más importantes."
+   },
+   {
+    "materia": "GEOGRAFIA E HISTORIA",
+    "capitulo": 2,
+    "bloque": 11,
+    "tema": 2,
+    "titulo_tema": "El reino de los Reyes Católicos",
+    "pregunta": "¿En qué fecha exacta se produjo la rendición del reino nazarí de Granada ante los Reyes Católicos?",
+    "opciones": [
+             "12 de octubre de 1492",
+             "2 de enero de 1492",
+             "1 de abril de 1516",
+             "6 de diciembre de 1478"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unidad 11. La conquista del reino de Granada finalizó el 2 de enero de 1492, terminando así la conquista cristiana de la península."
+   },
+   {
+    "materia": "GEOGRAFIA E HISTORIA",
+    "capitulo": 1,
+    "bloque": 5,
+    "tema": 3,
+    "titulo_tema": "El medio ambiente: Problemas",
+    "pregunta": "¿Qué porcentaje aproximado de la capa de ozono sobre España se estima que se ha reducido según el manual?",
+    "opciones": [
+             "Un 2%",
+             "Un 8%",
+             "Un 15%",
+             "Un 25%"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Unidad 5. El manual oficial señala que el espesor de la capa de ozono sobre el territorio español se ha reducido ya en un 8%."
+   },
+   {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Introducción a LibreOffice",
+        "pregunta": "¿Qué motor de bases de datos relacional incorpora LibreOffice Base por defecto?",
+        "opciones": [
+                 "MYSQL",
+                 "HSQLDB",
+                 "ORACLE",
+                 "dBASE"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 1. Base incorpora HSQLDB como su motor de bases de datos relacional por defecto, aunque también permite utilizar otros como dBASE, Access, MYSQL u ORACLE."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación de documentos de LibreOffice",
+        "pregunta": "¿Cuál es el atajo de teclado utilizado en LibreOffice para deshacer el cambio más reciente realizado en un documento?",
+        "opciones": [
+                 "Control + Y",
+                 "Control + S",
+                 "Control + Z",
+                 "Control + N"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 2. Para deshacer el cambio más reciente en un documento, se presiona la combinación de teclas Control + Z o se hace clic en el icono Deshacer en la barra Estándar."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 8,
+        "titulo_tema": "Primeros pasos en Calc",
+        "pregunta": "En LibreOffice Calc (a partir de la versión 3.0), ¿cuál es el número máximo de filas y columnas que puede tener cada hoja?",
+        "opciones": [
+                 "65.536 filas y 1024 columnas",
+                 "32.768 filas y 256 columnas",
+                 "1.048.576 filas y 1024 columnas",
+                 "65.536 filas y 256 columnas"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 8. A partir de la versión 3.0 de Calc, cada hoja puede tener un máximo de 65.536 filas y un máximo de 1024 columnas, obteniendo así un total de más de 67 millones de celdas."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Diferentes bandejas del sistema SIMENDEF",
+        "pregunta": "Dentro de la bandeja 'Personal' de SIMENDEF, ¿qué función principal tiene la subbandeja 'Borradores'?",
+        "opciones": [
+                 "Mostrar los documentos remitidos al portafirmas para su posterior firma.",
+                 "Mostrar los oficios de salida que ya han sido registrados y archivados históricamente.",
+                 "Mostrar los documentos que ha creado el propio usuario y todavía no los ha distribuido o enviado al portafirmas.",
+                 "Mostrar los documentos enviados a otros usuarios ordenados por fecha de distribución interna."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 1 de SIMENDEF. La bandeja de Borradores muestra exclusivamente los documentos que ha creado el propio usuario y que todavía no los ha distribuido o enviado al portafirmas."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "Al pegar un texto en Writer desde otra fuente, ¿qué opción del menú desplegable 'Pegado especial' debes seleccionar si deseas que el nuevo texto adopte el formato del texto adyacente?",
+        "opciones": [
+                 "Vínculo DDE",
+                 "Texto formateado (RTF)",
+                 "HTML (HyperText Markup Language)",
+                 "Texto sin formato"
+        ],
+        "correcta": 3,
+        "explicacion": "📚 Tema 3. Si se desea que el texto pegado adopte el formato del texto adyacente y no el original, se debe acceder a 'Pegado especial' y seleccionar 'Texto sin formato' en el menú resultante[cite: 353, 354, 357]."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Introducción a LibreOffice",
+        "pregunta": "¿A qué formatos puede exportar el procesador de textos Writer sus documentos de forma nativa?",
+        "opciones": [
+                 "HTML, RTF, PDF y DOCX",
+                 "HTML, XML, PDF y DOC",
+                 "HTML, XHTML, XML, PDF y varios formatos de Microsoft Word",
+                 "HTML, ODT, PDF y TXT"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 1. Writer puede exportar archivos a HTML, XHTML, XML, al Formato de Documentos Portables de Adobe (PDF) y a varios formatos de archivos de Microsoft Word."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Introducción a LibreOffice",
+        "pregunta": "¿Qué componente de LibreOffice permite integrar diagramas en 2D y en 3D generados a partir del análisis avanzado de datos estadísticos y financieros?",
+        "opciones": [
+                 "Writer",
+                 "Impress",
+                 "Calc",
+                 "Base"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 1. Calc genera diagramas en 2D y en 3D, que pueden integrarse dentro de otros documentos de LibreOffice. Incluye más de 300 funciones financieras, estadísticas y matemáticas."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Introducción a LibreOffice",
+        "pregunta": "En el contexto de la aplicación Impress, ¿cómo se denominan los efectos especiales de texto que se pueden aplicar para mejorar las diapositivas?",
+        "opciones": [
+                 "Fontwork",
+                 "Textos animados",
+                 "Efectos de texto",
+                 "Formato de texto"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 1. Las diapositivas de Impress pueden ser mejoradas con los efectos especiales de texto Fontwork, así como clips de sonido y video."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Introducción a LibreOffice",
+        "pregunta": "¿Qué aplicación de LibreOffice permite exportar el trabajo a formato Macromedia Flash (SWF)?",
+        "opciones": [
+                 "Writer",
+                 "Impress",
+                 "Calc",
+                 "Base"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 1. Impress es compatible con archivos Microsoft PowerPoint e incluso puede abrir y guardar su trabajo en numerosos formatos gráficos, incluyendo Macromedia Flash (SWF)."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Introducción a LibreOffice",
+        "pregunta": "¿Qué característica principal ofrece LibreOffice Draw para conectar objetos en diagramas de flujo?",
+        "opciones": [
+                 "Conector inteligente",
+                 "Conector automático",
+                 "Conector dinámico",
+                 "Conector flexible"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 1. Su característica de Conector inteligente le permite definir sus propios puntos de conexión, ideal para diagramas simples o de flujo."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Introducción a LibreOffice",
+        "pregunta": "¿Qué motor de bases de datos relacional incorpora LibreOffice Base por defecto?",
+        "opciones": [
+                 "MYSQL",
+                 "HSQLDB",
+                 "ORACLE",
+                 "dBASE"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 1. Base incorpora HSQLDB como su motor de bases de datos relacional por defecto. También puede utilizar dBASE, Access, MYSQL u ORACLE."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "Introducción a LibreOffice",
+        "pregunta": "¿Qué formato estándar utiliza la aplicación Math para guardar fórmulas matemáticas complejas destinadas a ser publicadas en páginas web?",
+        "opciones": [
+                 "LaTeX",
+                 "MathML",
+                 "HTML",
+                 "XML"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 1. Math puede guardar fórmulas en formato de Lenguaje de Marcado Matemático Estándar (MathML) para incluirlas en páginas web y otros documentos no creados por LibreOffice."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "¿Cuál es la combinación de teclas o atajo de teclado para crear un nuevo documento en LibreOffice?",
+        "opciones": [
+                 "Control + A",
+                 "Control + N",
+                 "Control + S",
+                 "Control + O"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 2. Se puede crear un nuevo documento presionando Control+N en el teclado."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "¿Qué atajo de teclado abre el diálogo para abrir un documento existente?",
+        "opciones": [
+                 "Control + A",
+                 "Control + O",
+                 "Control + Z",
+                 "Control + E"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 2. Puede abrir un documento existente presionando Control+O en el teclado."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "¿Cómo se sobrescribe manualmente el último cambio guardado en el archivo actual?",
+        "opciones": [
+                 "Archivo -> Guardar como",
+                 "Archivo -> Guardar",
+                 "Archivo -> Exportar",
+                 "Archivo -> Guardar una copia"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 2. Para guardar un documento abierto con el nombre de archivo actual, seleccione Archivo -> Guardar o presione Control+S. Esto sobrescribirá el último cambio guardado."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "¿Cuál es la ruta de menú correcta para configurar el guardado automático de archivos a intervalos de tiempo regulares?",
+        "opciones": [
+                 "Herramientas -> Opciones -> Cargar/Guardar -> General",
+                 "Archivo -> Guardar automáticamente",
+                 "Editar -> Preferencias de guardado",
+                 "Ver -> Configuración de guardado"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 2. Para elegir el guardado automático de archivos: 1) Seleccione Herramientas -> Opciones -> Cargar/Guardar -> General. 2) Marque Guardar información de recuperación automática cada y elija el intervalo."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "Dentro de los cuadros de diálogo de LibreOffice para 'Abrir' o 'Guardar como', ¿qué acciones de gestión de archivos ESTÁN permitidas, al igual que en un gestor habitual del sistema operativo?",
+        "opciones": [
+                 "Renombrar y borrar archivos",
+                 "Copiar y pegar archivos",
+                 "Mover archivos a otra ubicación",
+                 "Crear accesos directos a archivos"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 2. Puede renombrar o borrar archivos dentro de los cuadros de diálogo de LibreOffice. Sin embargo, no puede copiar o pegar archivos dentro de estos cuadros de diálogo."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "Si un usuario prefiere utilizar los cuadros de diálogo 'Abrir' y 'Guardar como' propios de LibreOffice en lugar de los de su sistema operativo, ¿dónde debe activar esta opción?",
+        "opciones": [
+                 "Herramientas -> Opciones -> LibreOffice -> General",
+                 "Archivo -> Preferencias de diálogo",
+                 "Ver -> Configuración de diálogo",
+                 "Editar -> Opciones de diálogo"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 2. Para cambiar qué tipo de cuadro de diálogo utiliza: 1) Seleccione Herramientas -> Opciones -> LibreOffice -> General. 2) Marque la casilla de verificación Usar diálogos LibreOffice."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "¿Cuál es la función del atajo de teclado Control + Y en el entorno de edición de LibreOffice?",
+        "opciones": [
+                 "Rehacer el último cambio deshecho",
+                 "Guardar el documento actual",
+                 "Abrir un nuevo documento",
+                 "Cerrar el documento actual"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 2. Si desea restaurar un cambio (rehacer), seleccione Editar -> Restaurar o presione Control + Y o haga clic sobre el icono Restaurar."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "Para modificar la cantidad de pasos o cambios que LibreOffice es capaz de recordar para su posterior función 'Deshacer', ¿a qué menú debe accederse?",
+        "opciones": [
+                 "Herramientas -> Opciones -> LibreOffice -> Memoria",
+                 "Archivo -> Configuración de memoria",
+                 "Editar -> Preferencias de memoria",
+                 "Ver -> Opciones de memoria"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 2. Para modificar el número de cambios que recuerda LibreOffice, elija Herramientas -> Opciones -> LibreOffice -> Memoria y en la sección Deshacer cambie el Número de pasos."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "Creación documentos LibreOffice",
+        "pregunta": "Al intentar cerrar un documento modificado que no ha sido guardado, LibreOffice muestra un mensaje. Si el usuario elige la opción 'Descartar', ¿qué sucede exactamente?",
+        "opciones": [
+                 "El documento se guarda con un nombre temporal y se cierra.",
+                 "No ocurre nada y se retorna a la edición del documento.",
+                 "El documento es cerrado, y se pierden todas las modificaciones desde la última vez que se guardó.",
+                 "El documento permanece abierto pero deshace el último cambio automáticamente."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 2. Descartar: el documento es cerrado, y se pierden todas las modificaciones desde la última vez que se guardó."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "¿Qué indicador visual muestra la Barra de Estado de Writer para advertir al usuario que el documento actual tiene modificaciones sin guardar?",
+        "opciones": [
+                 "El icono de un disquete parpadeando en rojo.",
+                 "Un asterisco (*) situado en la barra de estado.",
+                 "La palabra 'Modificado' en el cuadro de número de página.",
+                 "Un sombreado amarillo sobre el título del documento."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 3. Aparecerá un asterisco (*) en la barra de Estado si no se han guardado los cambios del documento."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "¿Qué sucede al hacer doble clic sobre el campo 'Número de página' situado en la esquina inferior izquierda de la Barra de Estado?",
+        "opciones" :[
+                 "Se abre el cuadro de diálogo de Configuración de página.",
+                 "Se muestra un menú para elegir el formato de número de página.",
+                 "Se abre el Navegador para saltar a una página específica.",
+                 "Se activa el modo de edición del número de página en la barra de estado."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 3. Para saltar a una página específica, haga doble clic en este campo. De esta manera se abre el Navegador. Haga clic en el campo de Número de página y escriba el número deseado."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "En la Barra de Estado de Writer, el Modo de Selección permite alternar entre varias opciones. ¿Qué selección es una alternativa a pulsar 'Mayúsculas + clic' cuando se marca un texto?",
+        "opciones": [
+                 "Modo de selección de bloque",
+                 "Modo de selección de línea",
+                 "Modo de selección de columna (EXT)",
+                 "Modo de selección de párrafo"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 3. El modo de EXT (Extender) es una alternativa a Mayúsculas+clic cuando se selecciona un texto."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "¿Qué icono aparece en la Barra de Estado cuando el documento de Writer ha sido avalado criptográficamente por el autor?",
+        "opciones": [
+                 "Un candado cerrado",
+                 "Una pluma estilográfica",
+                 "Un sello de certificado",
+                 "Un escudo de seguridad"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 3. Si se ha firmado el documento digitalmente, se mostrará un icono en esta parte de la barra de Estado. Puede hacer doble clic sobre el icono para ver el certificado."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "Según la directiva de guardar documentos para usuarios de Microsoft Word, ¿qué precaución crítica debe tomar el usuario ANTES de guardar el archivo como formato Word?",
+        "opciones": [
+                 "Asegurarse de que el documento no contiene imágenes o gráficos.",
+                 "Guardar primero el documento en formato de LibreOffice (.odt) para preservar los cambios.",
+                 "Desactivar todas las macros antes de guardar.",
+                 "Cambiar el idioma del documento a inglés para evitar problemas de compatibilidad."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 3. Importante: archive primero el documento en formato de LibreOffice (.odt). Si no lo hace así, los cambios aparecerán únicamente en la versión del documento de Microsoft Word."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "¿Qué tecla modificadora debe mantenerse presionada mientras se utiliza el ratón para seleccionar múltiples fragmentos de texto que no son consecutivos dentro del documento?",
+        "opciones": [
+                 "Control",
+                 "Alt",
+                 "Shift",
+                 "Windows"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 3. Seleccionar elementos que no son consecutivos: Seleccione el primer fragmento. Mantenga presionada la tecla Control y utilice el ratón para seleccionar la parte del texto siguiente."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "Para evitar que un texto pegado desde una página web conserve su formato original (negritas, tamaños) y adopte en su lugar el formato del texto adyacente en Writer, ¿qué opción se debe seleccionar tras elegir Pegado Especial?",
+        "opciones": [
+                 "Texto sin formato",
+                 "Formato de texto simple",
+                 "Formato de texto con estilo",
+                 "Formato de texto con tabuladores"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 3. Si desea que el texto pegado adopte el formato del texto adyacente, elija Pegado Especial y seleccione 'Texto sin formato' del menú resultante."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "Trabajar y configurar documento Writer",
+        "pregunta": "¿Por qué el uso del espaciado del tabulador predeterminado de Writer puede provocar problemas severos de formato al compartir documentos?",
+        "opciones": [
+                 "Porque el espaciado predeterminado no es compatible con otros procesadores de texto.",
+                 "Porque el espaciado predeterminado puede variar entre diferentes usuarios, causando que el formato se desconfigure al abrir el documento en otro equipo.",
+                 "Porque el espaciado predeterminado no se guarda correctamente en archivos .odt.",
+                 "Porque el espaciado predeterminado solo funciona en documentos sin imágenes o tablas."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 3. Si usa el espaciado predeterminado y envía el documento a otra persona que haya elegido un espaciado predeterminado diferente, el material pasará a aplicar los valores establecidos por la otra persona, causando graves problemas de formato. Se recomienda definir valores propios en la regla."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 4,
+        "bloque": 1,
+        "tema": 4,
+        "titulo_tema": "Aplicación de estilos a documentos",
+        "pregunta": "¿Cómo se define un 'estilo' dentro del entorno de LibreOffice Writer?",
+        "opciones": [
+                 "Un estilo es una plantilla de documento predefinida que se aplica a todo el documento para darle un formato uniforme.",
+                 "Un estilo es un conjunto de opciones de formato agrupadas bajo un nombre, que se pueden aplicar a diferentes partes del documento para mantener la coherencia.",
+                 "Un estilo es una función de automatización que permite generar tablas de contenido y referencias cruzadas automáticamente.",
+                 "Un estilo es un tipo de fuente tipográfica que se puede aplicar al texto para mejorar su apariencia."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 4. Un estilo es un conjunto de opciones de formato agrupadas bajo un nombre. Los estilos le permiten dar formato fácilmente a sus documentos y hacerlos más coherentes."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 4,
+        "bloque": 1,
+        "tema": 4,
+        "titulo_tema": "Aplicación de estilos a documentos",
+        "pregunta": "Para insertar información repetitiva (como el título del documento o el nombre del capítulo) dentro del área del encabezado, ¿cuál es el método más eficiente y dinámico recomendado por el temario?",
+        "opciones": [
+                 "Escribir manualmente el texto en cada página del documento.",
+                 "Insertar la información como campos dentro del encabezado para que se actualice automáticamente con los cambios.",
+                 "Utilizar tablas para colocar la información en el encabezado y copiarla en cada página.",
+                 "Crear un cuadro de texto en el encabezado y escribir la información allí, actualizándolo manualmente cuando sea necesario."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 4. La mejor manera de añadir estos elementos es insertarlos como campos. De esta manera, si se hacen cambios, los encabezados y los pies de página serán actualizados automáticamente."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 4,
+        "bloque": 1,
+        "tema": 4,
+        "titulo_tema": "Aplicación de estilos a documentos",
+        "pregunta": "Si un operador desea que aparezca el formato dinámico 'página X de Y' en el pie del documento, ¿qué combinación de campos debe utilizar tras escribir las palabras conectoras?",
+        "opciones": [
+                 "Insertar -> Campos -> Número de página y luego Insertar -> Campos -> Contar páginas.",
+                 "Insertar -> Numeración automática de folios.",
+                 "Formato -> Estilo de página -> Paginación integral.",
+                 "Herramientas -> Macros -> Conteo absoluto."
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 4. Inserte el 'Número de página', presione la barra espaciadora, escriba 'de', y a continuación haga clic en Insertar -> Campos -> Contar páginas."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 4,
+        "bloque": 1,
+        "tema": 4,
+        "titulo_tema": "Aplicación de estilos a documentos",
+        "pregunta": "¿Qué dos métodos se describen para cambiar el tamaño de los márgenes de página en Writer?",
+        "opciones": [
+                 "A través de la barra de herramientas de formato o mediante atajos de teclado específicos para cada margen.",
+                 "Mediante las reglas de las páginas para un ajuste rápido, o a través del diálogo de Estilos de página para especificar medidas exactas con dos decimales.",
+                 "Utilizando plantillas predefinidas de márgenes o creando estilos personalizados para cada sección del documento.",
+                 "Editando directamente el código XML del documento para modificar los atributos de margen, o utilizando una extensión de terceros para ajustes avanzados."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 4. Puede cambiar los márgenes mediante las reglas de las páginas (rápido pero sin control fino) o a través del diálogo de Estilos de página (especificando medidas exactamente con dos decimales)."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 5,
+        "bloque": 1,
+        "tema": 5,
+        "titulo_tema": "Insertar imágenes y tablas",
+        "pregunta": "¿Cómo agrupa por defecto LibreOffice los gráficos y sonidos disponibles internamente dentro de su herramienta 'Galería'?",
+        "opciones": [
+                 "Por resolución de imagen y formato de archivo (JPEG, PNG).",
+                 "Por temas, como Fondos, Viñetas o Límites.",
+                 "Por su fecha de creación y peso en kilobytes.",
+                 "Por nivel de seguridad y permisos del usuario local."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 5. Los gráficos en la Galería están agrupados por temas, como Fondos, Viñetas o Límites. La lista de la izquierda de la ventana muestra los temas disponibles."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 5,
+        "bloque": 1,
+        "tema": 5,
+        "titulo_tema": "Insertar imágenes y tablas",
+        "pregunta": "Para insertar un símbolo tipográfico que no existe en el teclado estándar (como el símbolo del céntimo ¢), ¿qué menú debe utilizarse en Writer?",
+        "opciones": [
+                 "Insertar -> Caracteres especiales",
+                 "Formato -> Símbolos",
+                 "Herramientas -> Opciones de símbolos",
+                 "Archivo -> Propiedades de documento -> Símbolos"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 5. Para insertarlos en un documento: Coloque el cursor, haga clic en Insertar -> Símbolos para abrir la ventana, seleccione los símbolos deseados y haga clic en Aceptar."
+    }
 ]
 
 
