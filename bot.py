@@ -42,7 +42,7 @@ with open(filename, 'r', encoding='utf-8') as f:
 # --- CONFIGURACIÓN DE DIFUSIÓN MULTIPLATAFORMA ---
 url_privada = "https://t.me/addlist/q57lTY3FZTgwMzBk"
 texto_compartir = (
-    "¡Compañero! 🪖\n\nTe comparto este canal de test gratuitos para preparar el ascenso a Cabo y Cabo Primero. "
+    "¡Compañero! 🪖\n\nTe comparto esta comunidad de test gratuitos para preparar el ascenso a Cabo o a Cabo Primero. "
     "Preguntas oficiales cada hora, simulacros multi-materia y estadísticas reales.\n\n"
     f"Únete aquí: {url_privada}"
 )
@@ -216,4 +216,4 @@ def main():
     print("🚀 Bot Cabo Primero con Difusión Multiplataforma activo.")
     app.run_polling()
 
-if __name__ == '__main__': m
+if __name__ == '__main__': main()
