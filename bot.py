@@ -63,17 +63,17 @@ def obtener_saludo(es_simulacro=False):
     dias = (FECHA_EXAMEN - hoy).days
     
     if dias > 0:
-        mensaje = f"⏳ **CUENTA ATRÁS: Quedan {dias} días para el examen** 🎯\n\n"
+        mensaje = f"⏳ *CUENTA ATRÁS: Quedan {dias} días para el examen* 🎯\n\n"
     elif dias == 0:
-        mensaje = f"🎯 **¡LLEGÓ EL DÍA!** 🎯\n\nEs el momento de demostrarlo todo. "
+        mensaje = f"🎯 *¡LLEGÓ EL DÍA!* 🎯\n\nEs el momento de demostrarlo todo. "
     else:
-        mensaje = "🚀 **NUEVA CONVOCATORIA A CABO PRIMERO EN PREPARACIÓN** 🚀\n\n"
+        mensaje = "🚀 *NUEVA CONVOCATORIA A CABO PRIMERO EN PREPARACIÓN* 🚀\n\n"
 
     if es_simulacro:
-        mensaje += "🔥 **¡SIMULACRO MULTI-MATERIA!** 🔥\n"
-        mensaje += "Ráfaga de 10 preguntas (Inglés, Geo, Info y Legislación). ¡Demuestra tu nivel!"
+        mensaje += "🔥 *¡SIMULACRO MULTI-MATERIA!* 🔥\n"
+        mensaje += "Ráfaga de 10 preguntas (Inglés, Geografía, Informática y Legislación). ¡Demuestra tu nivel!"
     else:
-        mensaje += "🌅 **¡A por la jornada de instrucción!**"
+        mensaje += "🌅 *¡A por la jornada de instrucción!*"
         
     return mensaje
 
@@ -106,8 +106,8 @@ def preparar_texto_informe():
     total_aciertos = sum(r[2] for r in rows)
     precision_global = (total_aciertos / total_respuestas) * 100
     
-    informe = f"📊 **PARTE DE NOVEDADES - {datetime.now(ZONA_ESP).strftime('%d/%m/%Y')}** 📊\n\n"
-    informe += f"🎯 **Rendimiento Global de la Unidad:** `{precision_global:.1f}%` ({total_aciertos}/{total_respuestas})\n\n"
+    informe = f"📊 *PARTE DE NOVEDADES - {datetime.now(ZONA_ESP).strftime('%d/%m/%Y')}* 📊\n\n"
+    informe += f"🎯 *Rendimiento Global de la Unidad:* `{precision_global:.1f}%` ({total_aciertos}/{total_respuestas})\n\n"
     
     materias_dict = {}
     for r in rows:
@@ -116,11 +116,14 @@ def preparar_texto_informe():
         materias_dict[m].append((t, ac, tot))
     
     for mat, temas in materias_dict.items():
-        informe += f"🔹 **{mat.upper()}**\n"
+        # Limpiamos caracteres que rompen el Markdown de Telegram
+        mat_limpia = mat.replace('*', '').replace('_', '').replace('`', '')
+        informe += f"🔹 *{mat_limpia.upper()}*\n"
         for t_nombre, t_ac, t_tot in temas:
+            t_nombre_limpio = t_nombre.replace('*', '').replace('_', '').replace('`', '')
             t_perc = (t_ac / t_tot * 100) if t_tot > 0 else 0
             icono = "🟢" if t_perc >= 75 else "🟡" if t_perc >= 50 else "🔴"
-            informe += f"   {icono} {t_nombre}: `{t_perc:.1f}%`\n"
+            informe += f"   {icono} {t_nombre_limpio}: `{t_perc:.1f}%`\n"
         informe += "\n"
         
     informe += "Descansen. Mañana continuamos la instrucción. 🪖"
@@ -164,8 +167,7 @@ async def lanzar_tanda(bot, cantidad, es_simulacro=False, enviar_cierre=True):
                 type='quiz', 
                 correct_option_id=int(p['correcta']), 
                 explanation=f"{p.get('explicacion','')}"[:190],
-                is_anonymous=True,
-                question_parse_mode="Markdown"
+                is_anonymous=True
             )
             
             cursor.execute("INSERT INTO encuestas VALUES (?, ?, ?, ?, ?, ?, ?)", 
@@ -177,43 +179,56 @@ async def lanzar_tanda(bot, cantidad, es_simulacro=False, enviar_cierre=True):
 
     conn.close()
     if enviar_cierre:
-        msg_cierre = "✅ **INSTRUCCIÓN FINALIZADA**\n\nNo dejes a tus compañeros atrás. Comparte el canal para ayudar a la unidad. 👇"
+        msg_cierre = "✅ *INSTRUCCIÓN FINALIZADA*\n\nNo dejes a tus compañeros atrás. Comparte el canal para ayudar a la unidad. 👇"
         await bot.send_message(chat_id=CHAT_ID, text=msg_cierre, reply_markup=keyboard_viral, parse_mode="Markdown")
 
 # --- PROGRAMACIÓN ---
-async def enviar_batch_automatico(context):
+async def cierre_jornada(context: ContextTypes.DEFAULT_TYPE):
+    """Genera y envía el informe diario sin hacer preguntas adicionales"""
+    informe = preparar_texto_informe()
+    if informe:
+        await context.bot.send_message(chat_id=CHAT_ID, text=informe, parse_mode="Markdown")
+        await asyncio.sleep(2)
+        msg_footer = "✅ *PARTE DE NOVEDADES FINALIZADO*\n\nComparte el canal con tu unidad para reforzar el estudio conjunto. 👇"
+        await context.bot.send_message(chat_id=CHAT_ID, text=msg_footer, reply_markup=keyboard_viral, parse_mode="Markdown")
+    else:
+        await context.bot.send_message(chat_id=CHAT_ID, text="📊 *PARTE DE NOVEDADES* 📊\n\nSin actividad en la unidad hoy.", parse_mode="Markdown")
+
+async def enviar_batch_automatico(context: ContextTypes.DEFAULT_TYPE):
     ahora = datetime.now(ZONA_ESP)
     if ahora.date() == FECHA_EXAMEN.date(): return
+    
+    # 1. SI SON LAS 23:00, ejecutamos el Parte de Novedades y salimos
+    if ahora.hour == 23:
+        await cierre_jornada(context)
+        return
+        
+    # 2. Filtro de horas para el lanzamiento de preguntas (de 6 a 22)
     if not (6 <= ahora.hour <= 22): return 
     
+    # 3. Filtro de fin de semana (solo a las 10, 14, 18 y 22)
     es_finde = ahora.weekday() >= 5  
     if es_finde and ahora.hour not in [10, 14, 18, 22]: return
     
+    # 4. Lanzamos tanda de preguntas (10 en finde, 2 en diario)
     cantidad = 10 if es_finde else 2
     await lanzar_tanda(context.bot, cantidad, es_simulacro=es_finde)
 
-async def cierre_jornada(context):
-    await lanzar_tanda(context.bot, 2, es_simulacro=False, enviar_cierre=False)
-    await asyncio.sleep(2)
-    informe = preparar_texto_informe()
-    await context.bot.send_message(chat_id=CHAT_ID, text=informe or "Sin actividad hoy.", parse_mode="Markdown")
-    await asyncio.sleep(2)
-    msg_footer = "✅ **PARTE DE NOVEDADES FINALIZADO**\n\nComparte el canal con tu unidad para reforzar el estudio conjunto. 👇"
-    await context.bot.send_message(chat_id=CHAT_ID, text=msg_footer, reply_markup=keyboard_viral, parse_mode="Markdown")
 
 def main():
     app = Application.builder().token(TOKEN).build()
+    
     ahora = datetime.now(ZONA_ESP)
     segundos_hasta_en_punto = 3600 - (ahora.minute * 60 + ahora.second)
     
+    # Hemos centralizado el reloj: enviar_batch_automatico se encarga de todo
     app.job_queue.run_repeating(enviar_batch_automatico, interval=3600, first=segundos_hasta_en_punto)
-    app.job_queue.run_daily(cierre_jornada, time=time(23, 0, tzinfo=ZONA_ESP))
 
     app.add_handler(CommandHandler("disparar", lambda u, c: lanzar_tanda(c.bot, 2, False)))
     app.add_handler(CommandHandler("arsenal", informe_arsenal))
     app.add_handler(PollHandler(track_poll_results))
     
-    print("🚀 Bot Cabo Primero con Difusión Multiplataforma activo.")
+    print("🚀 Bot Cabo Primero con Difusión Multiplataforma activo (Fix Estadísticas aplicado).")
     app.run_polling()
 
 if __name__ == '__main__': main()
