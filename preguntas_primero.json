@@ -4638,6 +4638,390 @@
     "explicacion": "📚 Unidad 5. El manual oficial señala que el espesor de la capa de ozono sobre el territorio español se ha reducido ya en un 8%."
    },
    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "El Medio Físico en España",
+        "pregunta": "⛰️ La Meseta Central está dividida en dos submesetas. ¿Qué sistema montañoso es el responsable natural de esta división geográfica?",
+        "opciones": [
+            "Los Pirineos",
+            "Los Sistemas Béticos",
+            "El Sistema Central",
+            "La Cordillera Cantábrica"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 10. El Sistema Central divide la Meseta en Submeseta Norte y Submeseta Sur. Presenta una longitud de 400 km y está compuesto por materiales antiguos como el granito."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "El Medio Físico en España",
+        "pregunta": "🪨 ¿Qué características litológicas definen el 'área caliza' predominante en los Sistemas Béticos y los Pirineos?",
+        "opciones": [
+            "Rocas ígneas resistentes a la erosión",
+            "Rocas metamórficas con alta dureza",
+            "Rocas sedimentarias solubles en agua",
+            "Rocas volcánicas con alta porosidad"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 10. El área caliza está formada por rocas que se disuelven fácilmente con el agua (relieve kárstico), originando cuevas, simas y dolinas típicas de esta zona."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "El Medio Físico en España",
+        "pregunta": "🏔️ Identifique el pico que ostenta la mayor altitud dentro del territorio de la Península Ibérica:",
+        "opciones": [
+            "El Teide, con 3718 metros",
+            "El Mulhacén, con 3478 metros",
+            "El Aneto, con 3404 metros",
+            "El Pico Almanzor, con 2592 metros"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 10-13. El Mulhacén (3478 m) es el pico más alto de la Península. El Teide (3718 m) es el más alto de España, pero se encuentra en Canarias, fuera de la península."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "El Medio Físico en España",
+        "pregunta": "🌊 En la clasificación del litoral español, ¿qué rasgo geomorfológico define de manera exclusiva a la costa gallega?",
+        "opciones": [
+            "Acantilados de gran altura",
+            "Playas de arena fina y extensa",
+            "Rías altas y rías bajas",
+            "Deltas fluviales con gran extensión"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 13. La costa gallega es la más articulada de España, destacando por sus características rías altas y bajas, que permiten una gran penetración de la influencia marina."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "El Medio Físico en España",
+        "pregunta": "🌧️ ¿Qué formaciones vegetales son características del bosque caducifolio propio del clima oceánico en España?",
+        "opciones": [
+            "Pinos, cipreses y eucaliptos",
+            "Robles, fresnos y hayas",
+            "Encinas, alcornoques y quejigos",
+            "Palmeras, matorrales y arbustos xerófilos"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 15. La España oceánica (húmeda) presenta precipitaciones superiores a 800 mm, favoreciendo el desarrollo de bosques caducifolios de robles, fresnos y hayas."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "El Medio Físico en España",
+        "pregunta": "💧 Debido a la configuración topográfica de la Península, ¿qué vertiente hidrográfica concentra el mayor porcentaje de las cuencas fluviales?",
+        "opciones": [
+            "La vertiente atlántica, que drena el 65 por ciento de la superficie peninsular",
+            "La vertiente mediterránea, abarcando el 50 por ciento del territorio nacional",
+            "La vertiente cantábrica, que recoge el mayor volumen gracias a las lluvias",
+            "El sistema endorreico insular, que canaliza los torrentes hacia el Atlántico"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 20. La ligera inclinación de la Península hacia el oeste hace que la vertiente atlántica drene el 65% del territorio (cuencas del Duero, Tajo, Guadiana y Guadalquivir)."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 1,
+        "bloque": 1,
+        "tema": 1,
+        "titulo_tema": "El Medio Físico en España",
+        "pregunta": "🏞️ ¿Cuál de los siguientes ríos pertenece a la vertiente cantábrica, caracterizada por cauces cortos y caudalosos?",
+        "opciones": [
+            "El Ebro",
+            "El Guadalquivir",
+            "El Nervión",
+            "El Tajo"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 21. El Nervión, Bidasoa, Nalón y Navia son ríos de la vertiente cantábrica. Son cortos, muy pendientes y de régimen regular por la abundancia de lluvias."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "La Población Española",
+        "pregunta": "👶 ¿Qué periodo marca la fase de Transición Demográfica en la evolución de la población española?",
+        "opciones": [
+            "1900-1975",
+            "1950-2000",
+            "1800-1900",
+            "1975-2020"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 28. La transición demográfica española (1900-1975) se caracterizó por una caída brusca de la mortalidad y una bajada suave de la natalidad, generando alto crecimiento."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "La Población Española",
+        "pregunta": "📊 ¿Qué comunidades autónomas presentan actualmente densidades demográficas inferiores a 30 habitantes por kilómetro cuadrado?",
+        "opciones": [
+            "Comunidad de Madrid, País Vasco y los territorios de los dos archipiélagos",
+            "Cataluña, Comunidad Valenciana y la franja costera de la región andaluza",
+            "Castilla-La Mancha, Aragón, Extremadura y la región de Castilla y León",
+            "Galicia, Principado de Asturias, Cantabria y la Comunidad Foral de Navarra"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 32. El éxodo rural provocó grandes desequilibrios, dejando como 'desiertos poblacionales' a Castilla-La Mancha, Aragón, Extremadura y Castilla y León (<30 hab/km²)."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "La Población Española",
+        "pregunta": "🧳 Durante la emigración exterior de los años 60, ¿cuáles fueron los principales países europeos receptores de trabajadores españoles?",
+        "opciones": [
+            "Reino Unido, Irlanda y los países nórdicos",
+            "Alemania, Suiza y Francia",
+            "Italia, Grecia y Portugal",
+            "Bélgica, Países Bajos y Luxemburgo"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 35. El fin de la autarquía y el 'boom' demográfico expulsó mano de obra hacia Europa Occidental (Alemania, Suiza, Francia) por la demanda del Plan Marshall."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "El Espacio Urbano y Rural",
+        "pregunta": "🏙️ En el sistema de ciudades, ¿qué urbes están clasificadas en España como 'metrópolis nacionales' con máxima área de influencia?",
+        "opciones": [
+            "Madrid y Barcelona",
+            "Valencia y Sevilla",
+            "Bilbao y Zaragoza",
+            "Málaga y Murcia"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 51. Madrid y Barcelona son metrópolis nacionales. Disponen de servicios muy especializados, conectan con Europa y su área de influencia abarca toda España."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "El Espacio Urbano y Rural",
+        "pregunta": "🏘️ ¿Qué define morfológicamente al 'Ensanche Urbano' planificado en las ciudades españolas durante el siglo XIX?",
+        "opciones": [
+            "Un trazado de calles estrechas y tortuosas con fuerte densidad de plazas",
+            "Zonas periféricas aisladas y construidas para dotaciones industriales",
+            "Plano en cuadrícula, gran calidad constructiva y amplios espacios ordenados",
+            "El crecimiento natural orgánico sin ninguna supervisión oficial del Estado"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 53. Los ensanches (como los de Cerdá y Castro) se basan en planos ortogonales o en cuadrícula, respondiendo a las ideas burguesas de orden e higiene."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 4,
+        "bloque": 1,
+        "tema": 4,
+        "titulo_tema": "Actividades Económicas",
+        "pregunta": "🌾 En la estructura agraria española, el minifundio es un problema crónico. ¿En qué zonas geográficas es más abundante esta forma de propiedad?",
+        "opciones": [
+            "En las extensas llanuras de Andalucía, Extremadura y Castilla-La Mancha",
+            "En el norte de la Península y en las huertas tradicionales de Valencia",
+            "Exclusivamente en los archipiélagos debido a sus fuertes límites espaciales",
+            "En el sur del país, asociado siempre a las grandes explotaciones olivareras"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 63. El minifundio (propiedades menores a 10 hectáreas) abunda en el norte peninsular y Valencia, generando problemas de baja productividad y escasa mecanización."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 4,
+        "bloque": 1,
+        "tema": 4,
+        "titulo_tema": "Actividades Económicas",
+        "pregunta": "🐟 La pesca española faena frecuentemente en aguas internacionales. ¿Qué nombre recibe la pesca realizada a gran distancia de la costa?",
+        "opciones": [
+            "Pesca costera o de bajura, con permanencia diaria en el litoral nacional",
+            "Acuicultura extensiva, basada en las piscifactorías del océano Atlántico",
+            "Pesca de altura o gran altura, que requiere campañas de días o semanas",
+            "Pesca continental, ejecutada estrictamente en los estuarios y grandes ríos"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 64. La escasez de recursos en los caladeros nacionales obliga a la flota española a practicar la pesca de altura o gran altura en aguas internacionales o ZEE de otros países."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 4,
+        "bloque": 1,
+        "tema": 4,
+        "titulo_tema": "Actividades Económicas",
+        "pregunta": "🏭 ¿Cuál de las siguientes regiones es considerada un 'área industrial en declive' afectada severamente por la reconversión industrial?",
+        "opciones": [
+            "Asturias, Cantabria, Ferrol y la Bahía de Cádiz",
+            "Madrid, Barcelona, Valencia y Zaragoza",
+            "Andalucía, Extremadura, Castilla-La Mancha y Murcia",
+            "Galicia, País Vasco, Navarra y La Rioja"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 71. Asturias, Cantabria, Ferrol y la Bahía de Cádiz son áreas en declive por su especialización en sectores maduros (siderurgia, naval) muy afectados por la crisis."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 5,
+        "bloque": 1,
+        "tema": 5,
+        "titulo_tema": "El Medio Ambiente",
+        "pregunta": "🌋 Dentro de los riesgos naturales de origen geológico en España, ¿dónde se concentran las erupciones volcánicas?",
+        "opciones": [
+            "En la costa mediterránea, especialmente en la región de Murcia",
+            "En el interior peninsular, con actividad frecuente en Castilla y León",
+            "En el archipiélago canario, con volcanes activos como el Teide",
+            "En las Islas Baleares, debido a su origen volcánico reciente"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 82. Los riesgos volcánicos en España son exclusivos del archipiélago canario, dada su naturaleza geológica, destacando áreas activas en La Palma y Tenerife."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 5,
+        "bloque": 1,
+        "tema": 5,
+        "titulo_tema": "El Medio Ambiente",
+        "pregunta": "☢️ ¿Qué mineral radioactivo, extraído en minas como Saelices el Chico o Don Benito, se utiliza para alimentar las centrales nucleares españolas?",
+        "opciones": [
+            "El plutonio enriquecido importado íntegramente de países asiáticos",
+            "El uranio, que aporta más de la mitad de la energía primaria nuclear",
+            "El tungsteno, indispensable para el control de la fusión en los reactores",
+            "El bismuto, utilizado masivamente en las minicentrales hidráulicas"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 86. El uranio nacional (Ciudad Rodrigo, Don Benito) alimenta el proceso de fisión en los reactores nucleares, siendo una de las principales fuentes de energía primaria."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 6,
+        "bloque": 1,
+        "tema": 6,
+        "titulo_tema": "Organización Política de España",
+        "pregunta": "👑 ¿Qué forma política asume el Estado español según lo dictaminado por la Constitución de 1978?",
+        "opciones": [
+            "Una república federal con división de poderes",
+            "Un Estado social y democrático de derecho organizado como monarquía parlamentaria",
+            "Una monarquía absoluta con poderes concentrados en el rey",
+            "Un sistema presidencialista con un presidente elegido por sufragio directo"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 99. España es un Estado social y democrático de derecho organizado como monarquía parlamentaria. El rey reina pero no gobierna; el poder reside en las instituciones."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 6,
+        "bloque": 1,
+        "tema": 6,
+        "titulo_tema": "Organización Política de España",
+        "pregunta": "💰 ¿Cómo se denomina el mecanismo estatal creado para financiar inversiones en comunidades con renta inferior a la media y garantizar la solidaridad?",
+        "opciones": [
+            "Fondo de Solidaridad Interregional (FSI)",
+            "Fondo de Compensación Territorial (FCT)",
+            "Fondo de Compensación Interterritorial (FCI)",
+            "Fondo de Redistribución Regional (FRR)"
+        ],
+        "correcta": 3,
+        "explicacion": "📚 Pág 102, 105. El Fondo de Compensación Interterritorial (FCI) transfiere presupuestos estatales para inversiones en CCAA desfavorecidas, cumpliendo el principio de solidaridad."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 7,
+        "bloque": 1,
+        "tema": 7,
+        "titulo_tema": "España en el Mundo",
+        "pregunta": "🇪🇺 ¿En qué año ingresó España formalmente como miembro de pleno derecho en la entonces Comunidad Económica Europea (CEE)?",
+        "opciones": [
+            "1975",
+            "1986",
+            "1992",
+            "2000"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 113. España y Portugal se incorporaron a la CEE (actual UE) el 1 de enero de 1986, marcando el fin del aislamiento histórico y el inicio de la integración europea."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 7,
+        "bloque": 1,
+        "tema": 7,
+        "titulo_tema": "España en el Mundo",
+        "pregunta": "🏛️ Dentro de las instituciones de la Unión Europea, ¿quién ejerce principalmente la función de proponer leyes y administrar el presupuesto?",
+        "opciones": [
+            "El Parlamento Europeo",
+            "El Consejo Europeo",
+            "La Comisión Europea",
+            "El Tribunal de Justicia de la Unión Europea"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 115. La Comisión Europea propone legislación, asegura el cumplimiento de los tratados y administra los presupuestos, defendiendo el interés común de la Unión."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 5,
+        "bloque": 1,
+        "tema": 5,
+        "titulo_tema": "El Medio Ambiente",
+        "pregunta": "🚮 ¿A qué regla ecológica hace referencia el principio de agotar las posibilidades de uso de los productos antes de desecharlos definitivamente?",
+        "opciones": [
+            "Reducir, Reutilizar, Reciclar",
+            "Reutilizar, Reciclar, Reducir",
+            "Reciclar, Reducir, Reutilizar",
+            "Reciclar, Reutilizar, Reducir"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 91. Dentro de la regla de las Tres 'R', Reutilizar implica alargar la vida útil de los productos (usar papel por ambas caras, envases retornables) antes de tirarlos."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 3,
+        "bloque": 1,
+        "tema": 3,
+        "titulo_tema": "El Espacio Urbano y Rural",
+        "pregunta": "🏘️ ¿Qué tipo de poblamiento rural predomina en la periferia peninsular, Islas Baleares y Canarias?",
+        "opciones": [
+            "El poblamiento concentrado en núcleos distantes",
+            "El poblamiento disperso, con casas separadas por campos",
+            "El modelo de ensanche ortogonal de carácter agrario",
+            "El poblamiento periurbano exclusivamente industrial"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 55. El poblamiento disperso (casas rurales aisladas rodeadas de tierras de labor) es dominante en la cornisa cantábrica, Galicia, Baleares y Canarias."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 2,
+        "bloque": 1,
+        "tema": 2,
+        "titulo_tema": "La Población Española",
+        "pregunta": "📉 ¿Qué consecuencias económicas futuras genera la actual estructura envejecida de la pirámide de población española?",
+        "opciones": [
+            "Aumento de la tasa de natalidad y crecimiento demográfico acelerado",
+            "Reducción de la esperanza de vida y aumento de la mortalidad infantil",
+            "Tensión en el sistema económico por el pago de pensiones y gasto sanitario",
+            "Incremento de la población activa y disminución del desempleo"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 41. El envejecimiento (más del 16% mayores de 65 años) tensa el sistema económico, dificultando el pago de pensiones y requiriendo un enorme gasto sanitario y asistencial."
+    },
+    {   
         "materia": "INFORMÁTICA",
         "capitulo": 1,
         "bloque": 1,
@@ -5196,6 +5580,454 @@
         ],
         "correcta": 2,
         "explicacion": "📚 Tema 5. Para insertarlos en un documento: Coloque el cursor, haga clic en Insertar -> Símbolos para abrir la ventana, seleccione los símbolos deseados y haga clic en Aceptar."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 5,
+        "bloque": 1,
+        "tema": 5,
+        "titulo_tema": "Insertar imágenes y tablas",
+        "pregunta": "Cuando se copia un intervalo de celdas desde una hoja de cálculo Calc a un documento Writer utilizando 'Pegado especial', ¿cómo se debe pegar para asegurar que el contenido original de las celdas se pueda seguir editando abriendo el motor de hoja de cálculo al hacer doble clic?",
+        "opciones": [
+                 "Pegar como texto plano.",
+                 "Pegar como imagen.",
+                 "Pegar como objeto OLE.",
+                 "Pegar como tabla."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 5. En Editar - Pegado especial, seleccionar Hoja de cálculo de LibreOffice pega el intervalo como un objeto OLE. Para editar el contenido de las celdas, se pulsa dos veces en el objeto."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 6,
+        "bloque": 1,
+        "tema": 6,
+        "titulo_tema": "Ortografía y gramática",
+        "pregunta": "Si un usuario instala una extensión como 'Herramienta de Idioma' (LanguageTool) para habilitar el corrector gramatical del que carece nativamente Writer, ¿dónde se añade el menú para acceder a su configuración?",
+        "opciones": [
+            "En el menú Ver -> Extensiones de Idioma.",
+            "En Herramientas -> Ortografía y gramática.",
+            "En Formato -> Párrafo -> Lenguaje avanzado.",
+            "En Archivo -> Propiedades de documento."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 6. Writer no incluye corrector gramatical, pero puede instalar una extensión como Herramienta de Idioma y acceder a ella desde Herramientas -> Ortografía y gramática, lo cual añade un elemento y submenú nuevos."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 6,
+        "bloque": 1,
+        "tema": 6,
+        "titulo_tema": "Ortografía y gramática",
+        "pregunta": "Además de localizar palabras, ¿qué otra capacidad técnica permite ejecutar el diálogo 'Buscar y reemplazar' (Control+B) en Writer?",
+        "opciones": [
+            "Permite buscar palabras utilizando expresiones regulares, pero no permite reemplazarlas.",
+            "Permite buscar palabras utilizando comodines, encontrar y reemplazar formatos específicos, y encontrar y reemplazar estilos de párrafo.",
+            "Permite buscar palabras únicamente en el texto visible, sin afectar a los encabezados o pies de página.",
+            "Permite buscar palabras en varios documentos abiertos simultáneamente, pero no permite reemplazarlas."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 6. Además de buscar palabras, puede usar comodines, encontrar y reemplazar formatos específicos, y encontrar y reemplazar estilos de párrafo."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 6,
+        "bloque": 1,
+        "tema": 6,
+        "titulo_tema": "Ortografía y gramática",
+        "pregunta": "La función Autocorrección corrige automáticamente palabras erróneas (ej. 'ablar' por 'hablar'). ¿En qué menú se encuentra la opción para desactivar esta corrección automática mientras se escribe?",
+        "opciones": [
+            "Herramientas -> Opciones -> LibreOffice Writer -> Corrección automática.",
+            "Formato -> Autocorrección -> Al escribir.",
+            "Editar -> Preferencias de autocorrección.",
+            "Archivo -> Propiedades de documento -> Corrección automática."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 6. Esta función se activa cuando se instala Writer. Para desactivarla, en Formato -> Autocorrección, desmarque 'Al escribir'."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 7,
+        "bloque": 1,
+        "tema": 7,
+        "titulo_tema": "Impresión de documento",
+        "pregunta": "Si el operador desea enviar el documento directamente a la impresora pero utilizando la impresora definida para el documento en lugar de la predeterminada por la computadora, ¿qué opción debe marcar en la configuración Cargar/Guardar?",
+        "opciones": [
+            "Cargar configuraciones de la impresora con el documento.",
+            "Usar siempre la impresora predeterminada del sistema.",
+            "Preguntar al usuario cada vez que se imprima.",
+            "Desactivar la impresión rápida para usar la configuración del documento."
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 7. Vaya a Herramientas -> Opciones -> Cargar/Guardar -> General y seleccione la opción 'Cargar configuraciones de la impresora con el documento' para cambiar la acción del icono de impresión rápida."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 7,
+        "bloque": 1,
+        "tema": 7,
+        "titulo_tema": "Impresión de documento",
+        "pregunta": "En el cuadro de diálogo de impresión, ¿qué símbolo se utiliza obligatoriamente para separar la especificación de intervalos de impresión no consecutivos (ej. imprimir páginas 1, 5 y de la 11 a la 14)?",
+        "opciones": [
+            "El símbolo de punto y coma (;).",
+            "El símbolo de guion (-).",
+            "El símbolo de coma (,).",
+            "El símbolo de barra vertical (|)."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 7. Use guiones para especificar los intervalos de impresión y comas o punto y coma para separar intervalos; por ejemplo: 1, 5, 11-14, 34-40."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 8,
+        "bloque": 1,
+        "tema": 8,
+        "titulo_tema": "Primeros pasos con Calc",
+        "pregunta": "¿Cómo se estructuran los límites de dimensiones de la matriz de celdas en cada hoja de LibreOffice Calc a partir de su versión 3.0?",
+        "opciones": [
+            "Cada hoja puede tener un máximo de 32.768 filas y un máximo de 512 columnas.",
+            "Cada hoja puede tener un máximo de 65.536 filas y un máximo de 1024 columnas.",
+            "Cada hoja puede tener un máximo de 128.000 filas y un máximo de 2048 columnas.",
+            "Cada hoja puede tener un número ilimitado de filas y columnas, dependiendo solo de la memoria disponible."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 8. A partir de la versión 3.0 de Calc, cada hoja puede tener un máximo de 65.536 filas y un máximo de 1024 columnas, obteniendo más de 67 millones de celdas."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 8,
+        "bloque": 1,
+        "tema": 8,
+        "titulo_tema": "Primeros pasos con Calc",
+        "pregunta": "¿Qué elemento de la interfaz de Calc se encuentra a la izquierda de la Barra de fórmulas y muestra la combinación de letra y número de la celda activa?",
+        "opciones": [
+            "El Cuadro de nombre.",
+            "El Asistente de escenarios.",
+            "La Línea de entrada.",
+            "Las Cabeceras de fila."
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 8. A la izquierda de la Barra de fórmulas hay un pequeño cuadro de texto, llamado Cuadro de nombre. Esta combinación (referencia de celda) indica la letra de la columna y el número de la fila."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 8,
+        "bloque": 1,
+        "tema": 8,
+        "titulo_tema": "Primeros pasos con Calc",
+        "pregunta": "Cuando se encuentra operando en LibreOffice Calc, ¿qué botón debe pulsar para insertar directamente el signo igual (=) en la celda seleccionada, dejándola preparada para aceptar una fórmula?",
+        "opciones": [
+            "El botón Suma (Σ) en la barra de herramientas.",
+            "El botón Función (fx) en la barra de fórmulas.",
+            "El botón Insertar fórmula en el menú Insertar.",
+            "El botón Fórmula rápida en el menú Herramientas."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 8. El botón Función inserta el signo de igual (=) en la celda seleccionada y en la Línea de entrada, dejando a la celda preparada para aceptar una fórmula."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 8,
+        "bloque": 1,
+        "tema": 8,
+        "titulo_tema": "Primeros pasos con Calc",
+        "pregunta": "Mientras el usuario introduce un dato nuevo o edita una celda activa en Calc, ¿cómo se transforman los botones Suma e Igual en la Barra de Fórmulas?",
+        "opciones": [
+            "Suma se convierte en Guardar y Igual se convierte en Deshacer.",
+            "Suma se convierte en Cancelar y Igual se convierte en Aceptar.",
+            "Suma se convierte en Insertar función y Igual se convierte en Evaluar fórmula.",
+            "Suma se convierte en Copiar fórmula y Igual se convierte en Pegar fórmula."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 8. Al introducir un dato nuevo en una celda, los botones Suma e Igual cambian por botones Cancelar y Aceptar."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 9,
+        "bloque": 1,
+        "tema": 9,
+        "titulo_tema": "Tratamiento de hoja de cálculo",
+        "pregunta": "Para la navegación extrema a través de los datos en Calc, si el usuario pulsa la tecla 'Fin' en el teclado, ¿a qué ubicación exacta se moverá el foco de la celda?",
+        "opciones": [
+            "A la primera fila de la columna A (A1).",
+            "A la hoja de cálculo contigua ubicada a la derecha.",
+            "A la celda situada en la esquina inferior derecha de la última página impresa.",
+            "A la columna más lejana de la derecha que tenga datos dentro de esa fila."
+        ],
+        "correcta": 3,
+        "explicacion": "📚 Tema 9. La tecla Inicio mueve el foco al principio de la fila. La tecla Fin mueve el foco a la columna más lejana de la derecha que tenga datos."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 9,
+        "bloque": 1,
+        "tema": 9,
+        "titulo_tema": "Tratamiento de hoja de cálculo",
+        "pregunta": "¿Cuál es la función del atajo de teclado Control + Av Pag (Avance de Página) cuando se trabaja en una hoja de cálculo con múltiples pestañas?",
+        "opciones": [
+            "Mueve el foco a la hoja de cálculo contigua ubicada a la derecha.",
+            "Mueve el foco a la hoja de cálculo contigua ubicada a la izquierda.",
+            "Cambia el tamaño de la fuente en la hoja activa.",
+            "Abre el cuadro de diálogo de configuración de página."
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Tema 9. Pulsando Control+Av Pag, el foco se mueve una hoja a la derecha, y pulsando Control+Re Pag, el foco se mueve una hoja a la izquierda."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 9,
+        "bloque": 1,
+        "tema": 9,
+        "titulo_tema": "Tratamiento de hoja de cálculo",
+        "pregunta": "Si se desea seleccionar un área de celdas no contiguas en Calc (por ejemplo, la celda A1, C3 y E5), ¿qué proceso debe realizarse con el ratón y el teclado?",
+        "opciones": [
+            "Seleccione la primera celda, mantenga pulsada la tecla Shift y pulse o arrastre el ratón para seleccionar rangos adicionales.",
+            "Seleccione la primera celda, mantenga pulsada la tecla Control y pulse o arrastre el ratón para seleccionar rangos adicionales.",
+            "Seleccione la primera celda, mantenga pulsada la tecla Alt y pulse o arrastre el ratón para seleccionar rangos adicionales.",
+            "Seleccione la primera celda, mantenga pulsada la tecla Windows y pulse o arrastre el ratón para seleccionar rangos adicionales."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 9. Rango de celdas no contiguas: Seleccione la primera celda. Mantenga pulsada la tecla Control y pulse, o pulse y arrastre el ratón para seleccionar rangos adicionales."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 9,
+        "bloque": 1,
+        "tema": 9,
+        "titulo_tema": "Tratamiento de hoja de cálculo",
+        "pregunta": "Para la rápida selección de toda la matriz de datos, ¿dónde debe hacerse clic para seleccionar la 'Hoja completa' instantáneamente?",
+        "opciones": [
+            "En la cabecera de la columna A.",
+            "En la cabecera de la fila 1.",
+            "En el rectángulo pequeño entre la cabecera de la columna A y la cabecera de la fila 1 (Campo seleccionar todo).",
+            "En el menú Editar -> Seleccionar todo."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 9. Para seleccionar la hoja completa, pulse el rectángulo pequeño entre la cabecera de la columna A y la cabecera de la fila 1 (Campo seleccionar todo)."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 9,
+        "bloque": 1,
+        "tema": 9,
+        "titulo_tema": "Tratamiento de hoja de cálculo",
+        "pregunta": "Al intentar introducir un dato como un código postal o teléfono (por ejemplo, 01481), Calc elimina automáticamente el cero inicial. ¿Cuál es el procedimiento normativo para obligar al sistema a tratar esa celda como texto y mantener el cero?",
+        "opciones": [
+            "Encerrar el número entre paréntesis de la siguiente forma: (01481).",
+            "Añadir el signo igual (=) seguido de comillas dobles al inicio.",
+            "Escribir un apóstrofe (') antes del número, quedando como '01481.",
+            "Configurar el teclado en modo internacional extendido."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 9. Para mantener el cero de la izquierda, como por ejemplo para los códigos de área, escriba un apóstrofe antes del número, como: '01481. Ahora Calc reconoce el dato como texto y funciones matemáticas lo evalúan como cero."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 10,
+        "bloque": 1,
+        "tema": 10,
+        "titulo_tema": "Formato a datos",
+        "pregunta": "Si un operador desea que el tamaño de la letra de los datos se modifique automáticamente de forma dinámica para que quepa siempre en el ancho preestablecido de la celda, ¿qué opción debe activar?",
+        "opciones": [
+            "Ajustar texto a la celda.",
+            "Reducir para ajustar al tamaño de la celda.",
+            "Permitir desbordamiento de texto.",
+            "Configurar ancho automático de columna."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 10. Contraer texto: El tamaño de la letra de los datos puede ajustarse automáticamente seleccionando la opción 'Reducir para ajustar al tamaño de la celda' en el diálogo Formato de celdas."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 10,
+        "bloque": 1,
+        "tema": 10,
+        "titulo_tema": "Formato a datos",
+        "pregunta": "Cuando una fila o columna se ha configurado como oculta (Formato -> Ocultar), ¿qué precaución operativa se advierte al usuario si procede a realizar operaciones de copiado general?",
+        "opciones": [
+            "Los datos ocultos no se copiarán ni se podrán pegar en otro lugar.",
+            "Los datos ocultos se copiarán si se seleccionan los elementos a su alrededor, pero no se imprimirán ni se verán en pantalla.",
+            "Los datos ocultos se copiarán y pegarán normalmente, sin importar la selección.",
+            "Los datos ocultos solo se copiarán si se selecciona la opción 'Incluir datos ocultos' en el menú de copiado."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 10. Cuando los elementos están ocultos, no se ven ni se imprimen, pero aún se pueden seleccionar para copiar si se seleccionan los elementos a su alrededor. Si la B está oculta, se copia si se seleccionan A y C."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 3,
+        "tema": 1,
+        "titulo_tema": "Diferentes bandejas del sistema",
+        "pregunta": "En el entorno del Sistema Integrado de Mensajería de Defensa (SIMENDEF), ¿qué bandeja del área Personal está diseñada operativamente como 'su mesa de trabajo' e incluye aquellos oficios distribuidos expresamente a él para su gestión o información?",
+        "opciones": [
+                 "Bandeja de 'Borradores'.",
+                 "Bandeja de 'Enviados'.",
+                 "Bandeja de 'Recibidos'.",
+                 "Bandeja de 'Archivo'."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 1. Bandeja Personal -> RECIBIDOS. Vista en la que el usuario encuentra los documentos que le han sido enviados a él personalmente, o a una célula donde él es responsable principal. Es lo que se denomina 'su mesa de trabajo'."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 3,
+        "tema": 1,
+        "titulo_tema": "Diferentes bandejas del sistema",
+        "pregunta": "¿Qué característica de visibilidad restringe la bandeja de 'Borradores' en el área Personal de SIMENDEF?",
+        "opciones": [
+                 "Solo muestra los documentos que han sido distribuidos a otros usuarios pero aún no han sido enviados al portafirmas.",
+                 "Solo muestra los documentos que han sido enviados al portafirmas pero aún no han sido firmados por la Autoridad.",
+                 "Solo muestra los documentos que ha creado el propio usuario y todavía no los ha distribuido o enviado.",
+                 "Solo muestra los documentos que han sido archivados por el usuario para su consulta futura."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 1. Muestra los documentos que ha creado el propio usuario y todavía no los ha distribuido o enviado. Importante: Los borradores creados y no distribuidos no pueden ser visibles por ningún otro usuario."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 3,
+        "tema": 1,
+        "titulo_tema": "Diferentes bandejas del sistema",
+        "pregunta": "El archivo burocrático de las comunicaciones en SIMENDEF está sistematizado. ¿Cuándo se activa la transferencia automática de un oficio registrado hacia la base de datos de 'Registro Histórico'?",
+        "opciones": [
+                 "Cuando el documento ha sido firmado por la Autoridad y se ha enviado a al menos un destinatario.",
+                 "Cuando el documento ha sido distribuido a otros usuarios pero aún no ha sido enviado al portafirmas.",
+                 "Cuando el documento ha superado un año desde su fecha de registro, o entre 4-6 meses en algunos ámbitos registrales específicos.",
+                 "Cuando el documento ha sido archivado manualmente por el usuario para su consulta futura."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 1. Los documentos registrados que superan un año (4-6 u 8 meses en algunos ámbitos registrales) pasan, de forma automática, a formar parte de una base de datos de Registro Histórico."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 1,
+        "bloque": 3,
+        "tema": 1,
+        "titulo_tema": "Diferentes bandejas del sistema",
+        "pregunta": "En la jerarquía del sistema SIMENDEF, la 'Bandeja Célula' representa el flujo de trabajo de una unidad o equipo. ¿A qué componentes está condicionada la visibilidad documental dentro de ella?",
+        "opciones": [
+                 "Solo a los documentos que han sido enviados directamente a la célula por la Autoridad.",
+                 "Solo a los documentos que han sido distribuidos a la célula por otros usuarios, sin importar su participación directa.",
+                 "A los documentos en coherencia con la seguridad general, donde el usuario haya participado, enviados a su célula o a células con acceso abierto para todos.",
+                 "A todos los documentos registrados en el sistema, sin restricciones de seguridad o participación."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 1. La bandeja célula es el equivalente a recibidos pero para un equipo. Aparecen documentos en coherencia con la seguridad general (donde haya participado, enviados a su célula o a células con acceso abierto para todos)."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 3,
+        "tema": 2,
+        "titulo_tema": "Confección de documento (oficio)",
+        "pregunta": "Durante la confección telemática de un nuevo documento en SIMENDEF, si el usuario está generando un oficio como contestación a un requerimiento anterior, ¿qué dos campos paramétricos rellenará el sistema de manera automática?",
+        "opciones": [
+                 "El campo 'Destinatario' y el campo 'Copia'.",
+                 "El campo 'S/REF' (Sin Referencia) y el campo 'Asunto'.",
+                 "El campo 'Fecha' y el campo 'Número de Registro'.",
+                 "El campo 'Remitente' y el campo 'Firma'."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 2. Al responder a otro documento, SIMENDEF rellena de forma automática tanto el campo S/REF (si respondemos a otro documento) como el campo Asunto (Automático si respondemos a otro documento)."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 2,
+        "bloque": 3,
+        "tema": 2,
+        "titulo_tema": "Confección de documento (oficio)",
+        "pregunta": "La datación oficial de un documento es vital para los plazos normativos militares. Si un usuario crea un borrador de oficio el día 1 de abril, pero este no es avalado y rubricado por la Autoridad en el portafirmas hasta el día 5 de abril, ¿qué fecha constará registralmente en el campo FECHA del documento?",
+        "opciones": [
+                 "La fecha del día 1 de abril, que es cuando se creó el borrador.",
+                 "La fecha del día 5 de abril, que es cuando se firmó el documento.",
+                 "La fecha del día 3 de abril, que es la fecha intermedia entre la creación y la firma.",
+                 "El sistema asignará una fecha genérica como 'Fecha de firma pendiente' hasta que se firme el documento."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 2. La Fecha es 'Automática a la firma'. Importante: Si creamos un borrador el día 01ABR y se firma el 05ABR, la firma será automática pero el documento se queda con la fecha de la firma. El campo en interfaz se marca como 'Automática a la Firma'."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 3,
+        "tema": 3,
+        "titulo_tema": "Clasificación documentos",
+        "pregunta": "Según la parametrización de SIMENDEF mostrada en el temario, ¿qué capacidad diferencial caracteriza a un usuario asignado a una Célula tipo OAM (Órgano Auxiliar del Mando) en contraposición a una célula simple, respecto al tránsito de oficios de salida?",
+        "opciones": [
+                 "Los usuarios de células tipo OAM solo pueden distribuir documentos, mientras que los usuarios de células simples pueden tanto distribuir como enviar al portafirmas.",
+                 "Los usuarios de células tipo OAM pueden tanto distribuir como enviar al portafirmas, mientras que los usuarios de células simples solo pueden distribuir documentos.",
+                 "No existe diferencia en la capacidad de distribución o envío al portafirmas entre usuarios de células tipo OAM y células simples.",
+                 "Los usuarios de células tipo OAM tienen acceso exclusivo a ciertos tipos de documentos clasificados, mientras que los usuarios de células simples no tienen restricciones."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 3. ¿Distribuir o envío portafirmas? Las células simples solo podrán distribuir. Las células tipo OAM (Órgano Auxiliar del Mando) podrán distribuir y enviar al portafirmas."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 3,
+        "bloque": 3,
+        "tema": 3,
+        "titulo_tema": "Clasificación documentos",
+        "pregunta": "A diferencia del obsoleto sistema anterior de comunicaciones militares (MESINCET), ¿qué maniobra de redirección o decreto permite ejecutar SIMENDEF entre las diferentes arquitecturas de células?",
+        "opciones": [
+                 "SIMENDEF permite el decreto a una célula que esté por debajo de otra, lo que no era posible en MESINCET.",
+                 "SIMENDEF solo permite el decreto a células del mismo nivel jerárquico, manteniendo la misma restricción que MESINCET.",
+                 "SIMENDEF permite el decreto a una célula que esté por encima de otra, lo que no era posible en MESINCET.",
+                 "SIMENDEF no permite ningún tipo de decreto o redirección entre células, a diferencia de MESINCET."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 3. En el apartado 'Importante' se destaca que: Al contrario que en MESINCET, es posible el decreto a una célula que esté por debajo de otra."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 4,
+        "bloque": 3,
+        "tema": 4,
+        "titulo_tema": "Anexo físico",
+        "pregunta": "En operaciones de logística y planeamiento se requiere a menudo despachar planos o soportes físicos paralelos a la orden digital. Si el anexo físico no va dirigido a la totalidad de las unidades destinatarias marcadas en el oficio electrónico, ¿cuál es el procedimiento que determina el temario?",
+        "opciones": [
+                 "No es necesario indicar nada en el cuerpo del oficio, ya que el sistema SIMENDEF se encargará de gestionar automáticamente la distribución del anexo físico según los destinatarios electrónicos.",
+                 "Es conveniente indicar en el cuerpo del oficio que el anexo físico no se va a enviar a todos los destinatarios, haciendo constar explícitamente los destinatarios que recibirán dicho anexo físico.",
+                 "El anexo físico debe ser enviado a todos los destinatarios marcados en el oficio electrónico, sin excepción, para garantizar la coherencia de la información.",
+                 "El anexo físico debe ser registrado como un documento separado en SIMENDEF y vinculado al oficio electrónico, sin necesidad de especificar destinatarios adicionales."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 4. Si el anexo físico no se va a enviar a todos los destinatarios, es conveniente indicarlo en el cuerpo del oficio, haciendo constar explícitamente los destinatarios que recibirán dicho anexo físico."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 4,
+        "bloque": 3,
+        "tema": 4,
+        "titulo_tema": "Anexo físico",
+        "pregunta": "Cuando se parametrizan los detalles de envío de un Anexo Físico en SIMENDEF, el cuadro de diálogo presenta el campo 'Nombre del Anexo'. ¿Qué advertencia o instrucción operativa acompaña a este campo para casos de duplicidad de soporte?",
+        "opciones": [
+                 "El campo 'Nombre del Anexo' debe ser idéntico al título del oficio electrónico para garantizar la coherencia documental.",
+                 "El campo 'Nombre del Anexo' debe contener una descripción detallada del contenido del anexo físico para facilitar su identificación.",
+                 "El campo 'Nombre del Anexo' debe ser distinto si el anexo físico también va en fichero, para evitar solapamientos en la gestión del archivo.",
+                 "No se requiere ninguna advertencia específica para el campo 'Nombre del Anexo', ya que el sistema SIMENDEF gestionará automáticamente cualquier posible duplicidad."
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Tema 4. En el cuadro 'Anexo Físico', bajo el campo 'Nombre del Anexo', existe una indicación que advierte: 'Distinto nombre si también va en fichero', previniendo solapamientos en la gestión del archivo."
+    },
+    {
+        "materia": "INFORMÁTICA",
+        "capitulo": 4,
+        "bloque": 3,
+        "tema": 4,
+        "titulo_tema": "Anexo físico",
+        "pregunta": "La ventana general de inserción de anexos (Ficheros Informáticos) del oficio indica un tamaño y número límite, así como las extensiones válidas de ofimática y multimedia. Según la parametrización estándar de SIMENDEF, ¿cuál es el máximo número de ficheros anexos permitido por oficio?",
+        "opciones": [
+            "5 anexos máximo.",
+            "15 anexos máximo.",
+            "50 anexos máximo.",
+            "No existe límite operativo de anexos, solo restricción por peso en bytes."
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Tema 4. En la ventana emergente de inserción de anexos, la leyenda 'Total de Anexos' indica '(máximo 15 anexos)' como límite superior, además de restringir las extensiones admitidas."
     }
 ]
 
