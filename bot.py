@@ -170,7 +170,7 @@ async def lanzar_tanda(bot, cantidad, es_simulacro=False, enviar_cierre=True):
                 is_anonymous=True
             )
             
-            cursor.execute("INSERT INTO encuestas VALUES (?, ?, ?, ?, ?, ?, ?)", 
+            cursor.execute("INSERT INTO encuestas (poll_id, materia, tema, aciertos, total, fecha, pregunta_texto) VALUES (?, ?, ?, ?, ?, ?, ?)", 
                            (msg.poll.id, materia_label, tema_label, 0, 0, hoy.strftime('%Y-%m-%d'), p['pregunta']))
             conn.commit()
             enviadas += 1
