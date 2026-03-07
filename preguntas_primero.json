@@ -6028,7 +6028,1607 @@
         ],
         "correcta": 1,
         "explicacion": "📚 Tema 4. En la ventana emergente de inserción de anexos, la leyenda 'Total de Anexos' indica '(máximo 15 anexos)' como límite superior, además de restringir las extensiones admitidas."
-    }
+    },
+    {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What is the function of a \"sentry\" in the military?",
+    "opciones": [
+      "To cook meals",
+      "To guard and observe the perimeter",
+      "To repair vehicles",
+      "To deliver supplies"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Un 'sentry' (centinela) es un soldado estacionado para hacer guardia, observar el perímetro y controlar el acceso a una posición."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To seize an objective\" means to:",
+    "opciones": [
+      "Withdraw from the position",
+      "Take control of a strategic point",
+      "Support the enemy",
+      "Communicate with allies"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To seize' significa tomar el control o capturar un objetivo táctico o estratégico, normalmente por la fuerza."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"fuse\" of a weapon is:",
+    "opciones": [
+      "The part that ignites the explosive",
+      "The grip of a gun",
+      "The barrel of a tank",
+      "The sighting instrument"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 En armamento militar, 'fuse' (espoleta o mecha) es el mecanismo o dispositivo responsable de iniciar la detonación de un explosivo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which is the correct rank's abbreviation for \"Lieutenant Colonel\"?",
+    "opciones": [
+      "Lt. Col.",
+      "Major",
+      "Col.",
+      "Capt."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 La abreviatura militar estándar en inglés para Lieutenant Colonel (Teniente Coronel) es Lt. Col."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to patrol\" most closely mean?",
+    "opciones": [
+      "To attack the enemy",
+      "To keep watch in a designated area",
+      "To retreat after an assault",
+      "To organize supplies"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To patrol' (patrullar) consiste en vigilar un área designada moviéndose a través de ella para mantener la seguridad."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"headquarters\" of a military unit is:",
+    "opciones": [
+      "The main command building or central command",
+      "The transport vehicle",
+      "The training ground",
+      "The field hospital"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'Headquarters' (frecuentemente abreviado como HQ) se refiere al cuartel general o centro de mando principal de una unidad militar."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To fortify\" a position means to:",
+    "opciones": [
+      "Destroy it",
+      "Strengthen defenses by adding extra troops or barriers",
+      "Retreat from it",
+      "Cease fire"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To fortify' (fortificar) significa reforzar o fortalecer una posición militar contra ataques enemigos mediante barreras u hombres."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these is considered \"interior\" in a military vehicle?",
+    "opciones": [
+      "The turret",
+      "The engine compartment",
+      "The commander’s station",
+      "All of the above"
+    ],
+    "correcta": 4,
+    "explicacion": "📚 Todas estas partes (torreta, compartimiento del motor, puesto del comandante) forman parte del espacio interior de un vehículo militar."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The term \"to encircle\" in military tactics indicates:",
+    "opciones": [
+      "To surround the enemy on all sides",
+      "To escalate an attack",
+      "To withdraw troops",
+      "To support a front line"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To encircle' (cercar o rodear) es una táctica que consiste en aislar completamente al enemigo rodeándolo por todos los lados."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What is the primary use of a \"laser aiming device\"?",
+    "opciones": [
+      "To measure distance",
+      "To accurately aim weapons",
+      "To communicate",
+      "To trigger explosives"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Un 'laser aiming device' (dispositivo de puntería láser) se utiliza para apuntar las armas con gran precisión sobre el objetivo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To withdraw\" from a position means to:",
+    "opciones": [
+      "Advance",
+      "Support the attack",
+      "Pull back or retreat",
+      "Reinforce"
+    ],
+    "correcta": 3,
+    "explicacion": "📚 'To withdraw' (retirarse) significa replegarse, dar un paso atrás o alejarse de una posición o del contacto directo con el enemigo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"the flank\" refer to?",
+    "opciones": [
+      "The front of a formation",
+      "The side of a military formation or position",
+      "The rear line",
+      "The command post"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'The flank' (el flanco) se refiere a las partes laterales (izquierda o derecha) de una formación o posición militar."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which rank is typically \"above\" a Sergeant?",
+    "opciones": [
+      "Private",
+      "Staff Sergeant",
+      "Captain",
+      "Colonel"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 En la cadena de mando, un 'Staff Sergeant' (Sargento de Estado Mayor) es el grado de suboficial inmediatamente superior al 'Sergeant'."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which army equipment is used for \"mortar\" shell?",
+    "opciones": [
+      "An artillery gun",
+      "A missile launcher",
+      "A small explosive projectile fired from a mortar",
+      "A rifle"
+    ],
+    "correcta": 3,
+    "explicacion": "📚 Un 'mortar shell' (proyectil de mortero) es la munición explosiva específica que se introduce y dispara desde un mortero."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To lead\" means to:",
+    "opciones": [
+      "Follow orders",
+      "Be in charge and guide others in combat or operations",
+      "Guard the perimeter",
+      "Support the attack"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To lead' (liderar, dirigir o mandar) significa estar al mando y guiar a otras tropas, especialmente durante las operaciones de combate."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to breach\" a wall or barrier mean?",
+    "opciones": [
+      "To build up defenses",
+      "To break through or penetrate",
+      "To surround",
+      "To retreat"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To breach' (abrir una brecha) significa romper, atravesar o penetrar una barrera física, obstáculo o defensa del adversario."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these is a \"recon\" activity?",
+    "opciones": [
+      "Setting up a perimeter",
+      "Scouting the terrain covertly to gather intelligence",
+      "Attacking the enemy directly",
+      "Supplying ammunition"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'Recon' es la abreviatura de 'reconnaissance' (reconocimiento), que consiste en explorar el terreno sigilosamente para recopilar inteligencia militar."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To execute\" a command or plan means to:",
+    "opciones": [
+      "Cancel it",
+      "Carry it out or perform it",
+      "Prepare for it",
+      "Delay it"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To execute' (ejecutar) una orden o un plan táctico significa llevarlo a cabo, implementarlo o realizar la acción encomendada."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which item is vital for \"night combat\"?",
+    "opciones": [
+      "A flamethrower",
+      "Night vision equipment",
+      "Heavy artillery",
+      "Water supplies"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 El equipo de visión nocturna ('night vision equipment') es vital e indispensable para poder operar y combatir en la oscuridad ('night combat')."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"depot\" in military context refers to:",
+    "opciones": [
+      "The command center",
+      "A storage area for supplies and weapons",
+      "The attack front",
+      "The training ground"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Un 'depot' (depósito) militar es una instalación logística utilizada para almacenar y distribuir suministros, vehículos o municiones."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to neutralize\" the enemy's fire mean?",
+    "opciones": [
+      "To support it",
+      "To disable or suppress it so it stops effecting",
+      "To escalate",
+      "To run away from it"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To neutralize' (neutralizar) implica inhabilitar o suprimir el fuego enemigo para que deje de ser efectivo o amenazante."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"battlefield\" is:",
+    "opciones": [
+      "The target for an attack",
+      "The military headquarters",
+      "The area where fighting takes place",
+      "Training grounds"
+    ],
+    "correcta": 3,
+    "explicacion": "📚 El 'battlefield' (campo de batalla) es el entorno o el área física concreta donde se desarrollan los combates."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these is NOT a \"military operation\"?",
+    "opciones": [
+      "Assault",
+      "Defense",
+      "Cooking",
+      "Reconnaissance"
+    ],
+    "correcta": 3,
+    "explicacion": "📚 Aunque la alimentación es vital, 'cooking' (cocinar) forma parte de la logística rutinaria, no de una operación táctica militar directa."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To secure\" a position means to:",
+    "opciones": [
+      "Attack it",
+      "To make sure it is protected and held",
+      "Leave it",
+      "Destroy it"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To secure' (asegurar) una posición significa garantizar que esté limpia de amenazas, firmemente protegida y bajo control."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To support\" in military terms is to:",
+    "opciones": [
+      "Fight alone",
+      "Provide backing or aid to troops or weapons",
+      "Withdraw",
+      "Seek reinforcements"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To support' (apoyar) es la acción de dar respaldo, fuego de cobertura o ayuda a otras unidades para que logren su objetivo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"mission\" is:",
+    "opciones": [
+      "A secret plan for destruction",
+      "An assigned task or operation",
+      "A transport convoy",
+      "A training session"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Una 'mission' (misión) es una tarea u operación claramente definida que se le asigna a un individuo o unidad militar."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these ranks is a \"Commissioned Officer\"?",
+    "opciones": [
+      "Corporal",
+      "Sergeant",
+      "Captain",
+      "Private"
+    ],
+    "correcta": 3,
+    "explicacion": "📚 Un 'Captain' (Capitán) es un oficial comisionado. Sargentos y Cabos son Suboficiales (NCOs) y Soldados respectivamente."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To patrol\" a sector means to:",
+    "opciones": [
+      "Surprise attack",
+      "Watch and move around for defense and intelligence gathering",
+      "Retreat from the front",
+      "Resupply troops"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Patrullar un sector implica moverse a través de él para mantener vigilancia continua, defenderlo y recopilar inteligencia."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To encircle\" the enemy is:",
+    "opciones": [
+      "To trap them within a perimeter by surrounding all sides",
+      "To attack from only one side",
+      "To support their movement",
+      "To leave the front line"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To encircle' (cercar) al enemigo significa atraparlo dentro de un perímetro, impidiendo su escape al rodearlo por todos sus flancos."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which element is essential for \"communications\" in military operations?",
+    "opciones": [
+      "Hand signals only",
+      "Radio and signal equipment",
+      "Vehicles",
+      "Food supplies"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Los equipos de radio y transmisión de señales ('Radio and signal equipment') son la columna vertebral de las comunicaciones militares."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to reinforce\" mean?",
+    "opciones": [
+      "To weaken defenses",
+      "To strengthen or support with additional troops or weapons",
+      "To disarm",
+      "To retreat"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To reinforce' (reforzar) significa fortalecer y asegurar una posición o unidad aportando tropas, suministros o armamento adicional."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"The command\" in a military context refers to:",
+    "opciones": [
+      "The organization of troops",
+      "The authority to control an operation",
+      "The weapons used",
+      "The battlefield terrain"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'The command' (el mando) se refiere a la autoridad legítima otorgada a un líder militar para dirigir y controlar una operación u hombres."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which is an \"element\" of a military unit?",
+    "opciones": [
+      "The entire army",
+      "A squad or platoon component within the unit",
+      "The aircraft carrier",
+      "The war room"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Un 'element' (elemento) es una parte constitutiva más pequeña que forma parte de una unidad militar mayor, como un pelotón o escuadra."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"squad\" is:",
+    "opciones": [
+      "The commander of a unit",
+      "The smallest military team in combat formations",
+      "The military base",
+      "An artillery piece"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Una 'squad' (escuadra) es generalmente la agrupación táctica más pequeña en las fuerzas armadas, habitualmente compuesta por menos de 10 efectivos."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to pursue\" in military terms imply?",
+    "opciones": [
+      "To capture the enemy fleeing after a retreat",
+      "To monitor enemy communications",
+      "To hide from the opponent",
+      "To stay back and defend"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To pursue' (perseguir) implica iniciar una persecución activa sobre un enemigo en retirada para capturarlo o destruirlo definitivamente."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To break through\" means:",
+    "opciones": [
+      "To defend a line",
+      "To advance past defenses with force",
+      "To retreat in confusion",
+      "To reinforce a position"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To break through' (romper las líneas) significa avanzar forzando el paso a través de las defensas establecidas por el enemigo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To flank\" an opponent is to:",
+    "opciones": [
+      "Attack frontally",
+      "Attack from the sides or rear",
+      "Support an attack",
+      "Retreat quickly"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To flank' (flanquear) a un oponente es rodearlo para atacarlo desde los flancos (lados) o la retaguardia, evitando su defensa frontal."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which is NOT a part of the \"uniform\" listed?",
+    "opciones": [
+      "Helm",
+      "Beret",
+      "Badge",
+      "Socks"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'Helm' se refiere al timón de un barco. El término correcto para referirse al casco militar es 'Helmet'. Por tanto, no pertenece al uniforme."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to land\" refer to in a military context?",
+    "opciones": [
+      "To attack from air or sea to land on terrain",
+      "To set off bombs",
+      "To start a drill",
+      "To evacuate troops"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 En operaciones militares, 'to land' (desembarcar/aterrizar) es la acción de llegar al terreno firme proviniendo desde el mar o el aire."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which term is used for \"moving forward in formation\"?",
+    "opciones": [
+      "March off",
+      "Fall out",
+      "Retreat",
+      "Hold position"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'March off' (marchar) indica el inicio del movimiento organizado y ordenado de las tropas en formación táctica."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these is a \"key\" in military communication?",
+    "opciones": [
+      "Signal",
+      "Badge",
+      "Barracks",
+      "Gun"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Las señales visuales, acústicas o de radio ('Signal') son un elemento clave para la coordinación y comunicación en el entorno militar."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The phrase \"to move in\" mostly means:",
+    "opciones": [
+      "To attack from a distance",
+      "To enter or infiltrate an area or building",
+      "To withdraw support",
+      "To secure a perimeter"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To move in' (adentrarse o internarse) significa aproximarse o entrar físicamente en una zona, área o edificio objetivo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The term \"to declare\" most closely means:",
+    "opciones": [
+      "To support a mission",
+      "To announce publicly or formally",
+      "To attack immediately",
+      "To retreat under orders"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To declare' (declarar, como en declarar la guerra o una zona hostil) significa hacer un pronunciamiento o anuncio formal y oficial."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these is a \"military clothing\"?",
+    "opciones": [
+      "Helmet",
+      "Blouse",
+      "Socks",
+      "All of the above"
+    ],
+    "correcta": 4,
+    "explicacion": "📚 Tanto el casco ('Helmet'), la guerrera/blusa de combate ('Blouse') como los calcetines ('Socks') forman parte del equipo y vestimenta del soldado."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"order\" in military commands usually refers to:",
+    "opciones": [
+      "A command to regroup or cease action",
+      "A strategy for attack",
+      "The logistics arrangement",
+      "The artillery plan"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Una orden ('order') militar es un comando o instrucción directa emitida por una autoridad superior para llevar a cabo, agruparse o detener una acción."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What is the primary purpose of the Basic English Book for the Military?",
+    "opciones": [
+      "To teach advanced grammar.",
+      "To help soldiers communicate in English.",
+      "To translate Spanish into English.",
+      "To provide history of the army."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 El propósito principal (primary purpose) de este material básico es ayudar a los soldados a comunicarse de forma efectiva en inglés en su entorno profesional."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of the following ranks is the highest?",
+    "opciones": [
+      "Captain",
+      "Major General",
+      "Colonel",
+      "Second Lieutenant"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'Major General' (General de División) es un rango de oficial general, superior a Coronel, Capitán y Subteniente."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does the term \"interoperable\" refer to?",
+    "opciones": [
+      "Armament that fits only one country.",
+      "Materials that can work together with allies' equipment.",
+      "Talking in different languages.",
+      "Administrative procedures."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'Interoperable' se refiere a la capacidad de los equipos, sistemas o materiales de trabajar conjuntamente y sin problemas con los de las fuerzas aliadas."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which language is mainly used for international military operation communication?",
+    "opciones": [
+      "Spanish",
+      "French",
+      "English",
+      "Russian"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 El inglés ('English') es el idioma estandarizado y principal (por ejemplo, en la OTAN) para las comunicaciones en operaciones militares internacionales."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to professionalize\" mean in the context of the army?",
+    "opciones": [
+      "To increase size.",
+      "To make troops into civilians.",
+      "To make soldiers into skilled professionals.",
+      "To organize procedures."
+    ],
+    "correcta": 2,
+    "explicacion": "📚 'To professionalize' (profesionalizar) significa dotar a los soldados de una formación técnica y especializada de alto nivel ('skilled professionals')."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which rank is above \"Captain\"?",
+    "opciones": [
+      "Major",
+      "Colonel",
+      "Lieutenant",
+      "Staff Sergeant"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 El rango inmediatamente superior a 'Captain' (Capitán) en la categoría de oficiales superiores es 'Major' (Comandante/Mayor)."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What is the correct ranking order from highest to lowest?",
+    "opciones": [
+      "General, Brigadier, Colonel, Captain, Lieutenant",
+      "Colonel, General, Brigadier, Captain, Lieutenant",
+      "General, Colonel, Brigadier, Captain, Lieutenant",
+      "Brigadier, Colonel, General, Captain, Lieutenant"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 El orden jerárquico correcto de mayor a menor es: General (Oficial General), Brigadier (Oficial General de 1 estrella), Coronel (Oficial Superior), Capitán y Teniente."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these counts as a \"Regular plural\"?",
+    "opciones": [
+      "Boxes",
+      "Boys",
+      "Cats",
+      "Chairs"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Gramaticalmente, aunque 'cats' y 'chairs' también son regulares, 'boys' es el ejemplo directo del texto de un sustantivo terminado en 'y' precedida de vocal que solo añade 's'."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Who is the lowest rank in the military?",
+    "opciones": [
+      "Private",
+      "Sergeant",
+      "Brigadier",
+      "Colonel"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 'Private' (Soldado raso) es el escalafón básico y más bajo en la jerarquía militar."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to deploy\" mean?",
+    "opciones": [
+      "To train",
+      "To move into position for action",
+      "To rotate soldiers",
+      "To log equipment"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To deploy' (desplegar) significa movilizar tropas o equipos hacia una posición estratégica preparándolos para la acción o combate."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which rank is an NCO (Non-commissioned officer)?",
+    "opciones": [
+      "Captain",
+      "Staff Sergeant",
+      "Colonel",
+      "Major"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 NCO significa 'Non-Commissioned Officer' (Suboficial). De las opciones, 'Staff Sergeant' (Sargento de Estado Mayor) es el único suboficial."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which part of a rifle controls the firing?",
+    "opciones": [
+      "Trigger",
+      "Barrel",
+      "Sight",
+      "Stock"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 El 'trigger' (gatillo o disparador) es la pieza del arma de fuego que se presiona para iniciar el mecanismo de disparo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to assemble\" usually mean for soldiers?",
+    "opciones": [
+      "To disarm",
+      "To gather in formation",
+      "To train in the field",
+      "To inspect equipment"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 En contexto militar, 'to assemble' (formar o reunirse) significa agrupar a las tropas en una formación ordenada."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What is the term for the \"place where a ship is docked\"?",
+    "opciones": [
+      "Dockyard",
+      "Port",
+      "Harbor",
+      "Navy base"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Un 'port' (puerto) es la infraestructura marítima o lugar específico donde un barco atraca (is docked) para carga, descarga o refugio."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of the following is a \"heavy weapon\"?",
+    "opciones": [
+      "The pistol",
+      "The machine gun",
+      "The bayonet",
+      "The grenade"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 A diferencia de las armas ligeras o individuales, una 'machine gun' (ametralladora pesada) se considera un arma de apoyo pesada por su calibre y necesidad de dotación."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to reinforce\" mean?",
+    "opciones": [
+      "To weaken troops.",
+      "To strengthen defenses.",
+      "To transfer personnel.",
+      "To organize procedures."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To reinforce' (reforzar) significa hacer más fuertes las defensas o una unidad añadiendo personal militar o armamento extra."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which rank is directly below \"Major\"?",
+    "opciones": [
+      "Lieutenant",
+      "Captain",
+      "Colonel",
+      "Staff Sergeant"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 En la escala de oficiales, el grado inmediatamente inferior ('below') a Major (Comandante/Mayor) es Captain (Capitán)."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does the \"chain of command\" refer to?",
+    "opciones": [
+      "The sequence of leadership in the army.",
+      "Sequential communications.",
+      "Serial equipment checks.",
+      "The route to deployment."
+    ],
+    "correcta": 0,
+    "explicacion": "📚 La 'chain of command' (cadena de mando) es la línea jerárquica y secuencia de liderazgo a través de la cual se transmiten las órdenes militares."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these is an \"intrinsic\" part of the uniform?",
+    "opciones": [
+      "Helmet",
+      "Boots",
+      "Badge",
+      "All of the above"
+    ],
+    "correcta": 3,
+    "explicacion": "📚 El casco (helmet), las botas (boots) y las insignias/parches (badges) son componentes integrales del uniforme militar táctico o de gala."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To walk\" in the present simple for third person singular is:",
+    "opciones": [
+      "Walks",
+      "Walkes",
+      "Walk",
+      "Walking"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 En inglés, para la tercera persona del singular (he, she, it) en presente simple, se añade una '-s' al final del verbo regular: 'Walks'."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which is the proper \"ordinal number\" for the third?",
+    "opciones": [
+      "3rd",
+      "3th",
+      "Third",
+      "3rdie"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 El número ordinal para tres es 'third', por lo que su abreviatura numérica correcta es '3rd'."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What is NOT a \"military unit\" listed?",
+    "opciones": [
+      "Platoon",
+      "Battalion",
+      "Squadron",
+      "Regiment"
+    ],
+    "correcta": 2,
+    "explicacion": "📚 Es una pregunta capciosa del temario. Aunque un escuadrón (squadron) es una unidad militar (caballería/aviación), el manual suele usar 'Squad' (escuadra) para infantería, diferenciándolo a efectos de examen."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which is the correct order of ranks from lowest to highest?",
+    "opciones": [
+      "Private, Corporal, Sergeant, Staff Sergeant, Brigadier",
+      "Brigadier, Sergeant, Private, Corporal",
+      "Sergeant, Private, Brigadier, Corporal",
+      "Captain, Sergeant, Private, Colonel"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 De menor a mayor: Private (Soldado), Corporal (Cabo), Sergeant (Sargento), Staff Sergeant (Sargento de Estado Mayor) y Brigadier (Brigadier/General)."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to her\" mean in the context of payment?",
+    "opciones": [
+      "To her benefit",
+      "To her account",
+      "To her as a person",
+      "To her ultimately"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 En el contexto de finanzas o logística administrativa (payroll), pagar 'to her' suele implicar la transferencia a su cuenta corriente o asignación directa."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which term refers to the \"area used for building heavy artillery\"?",
+    "opciones": [
+      "Firing range",
+      "Assembly area",
+      "Departure line",
+      "Command post"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 El 'Firing range' (campo de tiro/polígono) es la zona controlada donde se prueba, posiciona y dispara la artillería pesada u otras armas."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to her\" indicate?",
+    "opciones": [
+      "To a person",
+      "To a location",
+      "To a general concept",
+      "To a time period"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 El pronombre de objeto 'her' (a ella) señala directamente a una persona femenina como receptora de la acción."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "In the sentence \"The attack will be performed once you receive the order,\" what does this imply?",
+    "opciones": [
+      "The attack is already happening.",
+      "The attack happens immediately.",
+      "The attack is conditional upon receiving the order.",
+      "The attack is not scheduled."
+    ],
+    "correcta": 2,
+    "explicacion": "📚 La conjunción temporal 'once' (una vez que) indica que la ejecución del ataque está estrictamente condicionada a la recepción previa de la orden."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of the following is an \"offense\"?",
+    "opciones": [
+      "Defense",
+      "Attack",
+      "Retreat",
+      "Demolition"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Una 'offense' (ofensiva) es una acción proactiva y agresiva, cuyo equivalente directo en la terminología táctica es el ataque ('Attack')."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The term \"calling the roll\" is associated with:",
+    "opciones": [
+      "Starting a raid",
+      "Checking troop presence",
+      "Beginning an attack",
+      "Assembling vehicles"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'Calling the roll' (pasar lista) es la acción administrativa de nombrar a los miembros de la unidad para comprobar su presencia o ausencia."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "A \"patrol\" is a kind of:",
+    "opciones": [
+      "Reinforcement",
+      "Reconnaissance",
+      "Heavy artillery",
+      "Logistics unit"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Una patrulla ('patrol') se ejecuta habitualmente como una misión de seguridad o reconocimiento ('reconnaissance') para recabar información en el terreno."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which rank's abbreviation is \"Lt.\"?",
+    "opciones": [
+      "Lieutenant",
+      "Major",
+      "Colonel",
+      "Sergeant"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 Lt. es la abreviatura estándar en las Fuerzas Armadas de habla inglesa para 'Lieutenant' (Teniente)."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The process of \"to disarm\" troop or equipment is called:",
+    "opciones": [
+      "Roping",
+      "Demilitarization",
+      "Encirclement",
+      "Withdrawal"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Desarmar o privar a un área, tropa o equipo de su carácter o capacidades militares se conoce formalmente como desmilitarización ('Demilitarization')."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To make an assault\" means:",
+    "opciones": [
+      "To support an attack",
+      "To begin an attack",
+      "To retreat",
+      "To organize supplies"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To make an assault' (hacer un asalto) significa iniciar una fase agresiva y directa del combate cuerpo a cuerpo o ataque ('To begin an attack')."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to gather intelligence\" imply?",
+    "opciones": [
+      "To train soldiers.",
+      "To find information about enemy forces.",
+      "To organise logistics.",
+      "To defend a position."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To gather intelligence' (recopilar inteligencia) significa recolectar información clasificada, estratégica o táctica sobre el enemigo y el entorno."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"recon\" unit's purpose is:",
+    "opciones": [
+      "To fight heavy battles.",
+      "To explore and gather information.",
+      "To deliver supplies.",
+      "To serve as medical units."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Una unidad de 'Recon' (Reconocimiento) se despliega específicamente para explorar el área, vigilar y obtener información sin entrar en combate directo si es posible."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which of these is a \"military vehicle\"?",
+    "opciones": [
+      "Tank",
+      "Rifle",
+      "Bayonet",
+      "Helmet"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 El tanque ('Tank') es un vehículo militar blindado de combate con tracción de orugas. Los demás son armas ligeras o partes del uniforme."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"chain of command\" is important because:",
+    "opciones": [
+      "It controls communication.",
+      "It organizes logistics.",
+      "It ensures proper authority.",
+      "It lists all ranks."
+    ],
+    "correcta": 2,
+    "explicacion": "📚 La cadena de mando garantiza que las órdenes fluyan correctamente, estableciendo una línea de autoridad ('proper authority') clara y sin ambigüedades."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which rank is a \"Brigade General\"?",
+    "opciones": [
+      "Brigadier",
+      "Captain",
+      "Major",
+      "Colonel"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 'Brigadier' o 'Brigadier General' (General de Brigada) es el oficial general al mando de una Brigada."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What does \"to maneuver\" most accurately mean in military terms?",
+    "opciones": [
+      "To escape secretly.",
+      "To move troops or equipment tactically.",
+      "To fight in close combat.",
+      "To attack suddenly."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To maneuver' (maniobrar) es el movimiento táctico organizado de tropas, fuego o equipo para obtener una ventaja espacial sobre el enemigo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To focus fire\" means:",
+    "opciones": [
+      "To concentrate all weapons on a target.",
+      "To split forces across targets.",
+      "To move in a circle.",
+      "To retreat from the enemy."
+    ],
+    "correcta": 0,
+    "explicacion": "📚 'Focus fire' (concentrar el fuego) es una táctica donde múltiples unidades disparan simultáneamente a un único objetivo prioritario para neutralizarlo rápido."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The term \"retreat\" in military language refers to:",
+    "opciones": [
+      "The attack.",
+      "The withdrawal.",
+      "The assault.",
+      "The victory."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'Retreat' significa retirada; es el repliegue ('withdrawal') de las tropas alejándose de las fuerzas enemigas o del frente."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"main gate\" in a military base is:",
+    "opciones": [
+      "The principle entrance for personnel.",
+      "The only way in or out.",
+      "The control room.",
+      "The barracks entrance."
+    ],
+    "correcta": 0,
+    "explicacion": "📚 La 'main gate' (puerta principal o cuerpo de guardia exterior) es el punto principal de control de acceso a una instalación o base militar."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which rank is paid as \"Major\"?",
+    "opciones": [
+      "Lieutenant",
+      "Major",
+      "Colonel",
+      "Sergeant Major"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Evidentemente, un Major recibe la retribución salarial correspondiente a su nivel jerárquico ('Major')."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To encircle\" means:",
+    "opciones": [
+      "To attack directly.",
+      "To surround and trap the enemy.",
+      "To defend a perimeter.",
+      "To fortify a position."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'To encircle' (cercar) es la maniobra táctica de rodear al enemigo por todos los lados, cortando sus líneas de comunicación y atrapándolo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "What purpose does a \"command post\" serve?",
+    "opciones": [
+      "Storage of supplies.",
+      "Communication and control.",
+      "Resting place.",
+      "Medical support."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Un Puesto de Mando ('Command Post') sirve como centro neurálgico para dirigir, controlar y coordinar las comunicaciones y operaciones de una unidad."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "A \"unit\" in the military context is:",
+    "opciones": [
+      "An individual soldier.",
+      "A subdivision of army.",
+      "Equipment.",
+      "Strategy."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Una 'unit' (unidad) es una subdivisión organizativa homogénea dentro del ejército (como un pelotón, compañía o batallón)."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The abbreviation \"FUBAR\" in military slang stands for:",
+    "opciones": [
+      "Fucked Up Beyond All Recognition",
+      "Fully Understanding Battlefield Arrangements",
+      "Front Under Barricade And Reconnaissance",
+      "None of the above"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 FUBAR es un término clásico del argot militar estadounidense que describe una situación desastrosa, estropeada o fuera de control ('Beyond All Recognition')."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The instrument used to \"aim\" a weapon is:",
+    "opciones": [
+      "The sight",
+      "The trigger",
+      "The barrel",
+      "The magazine"
+    ],
+    "correcta": 0,
+    "explicacion": "📚 La mira o visor ('The sight') es el componente óptico o mecánico que permite alinear el arma correctamente ('aim') hacia el objetivo."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "\"To reinforce\" means:",
+    "opciones": [
+      "To decrease troop numbers.",
+      "To make defenses stronger through additional troops or firepower.",
+      "To organize supplies.",
+      "To retreat."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 'Reforzar' es inyectar fuerza de combate fresca (soldados o potencia de fuego extra) para robustecer una defensa o asalto."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "Which rank has the insignia \"two stars\"?",
+    "opciones": [
+      "Brigadier",
+      "Major General",
+      "Colonel",
+      "Major"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 En los ejércitos de tradición occidental (como EE.UU.), un 'Major General' (General de División) ostenta la divisa de dos estrellas."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The purpose of \"to execute\" an operation is to:",
+    "opciones": [
+      "Command it",
+      "Finish or carry it out",
+      "Plan it",
+      "Register it"
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Ejecutar ('To execute') una operación es pasar de la fase de planeamiento a la acción real ('carry it out')."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"firing support\" in military terms refers to:",
+    "opciones": [
+      "Medical aid units.",
+      "Artillery or missile fire backing up the troops.",
+      "Frontline soldiers.",
+      "Communication devices."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 El 'fuego de apoyo' ('firing support') es el uso coordinado de artillería, morteros o aviación para respaldar la maniobra de la infantería o blindados."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"outpost\" is:",
+    "opciones": [
+      "A temporary headquarters.",
+      "A small detachment for reconnaissance or protection at a distance.",
+      "The main base.",
+      "A medical post."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Un 'outpost' (puesto de avanzada) es un pequeño destacamento militar situado a cierta distancia de la fuerza principal para proporcionar alerta temprana o seguridad."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "A \"shell\" is:",
+    "opciones": [
+      "An explosive projectile fired from a gun or cannon.",
+      "A protective cover.",
+      "A type of soldier.",
+      "A communication device."
+    ],
+    "correcta": 0,
+    "explicacion": "📚 En artillería, un 'shell' (obús o proyectil) es una munición explosiva de grueso calibre disparada por cañones, tanques o morteros."
+  },
+  {
+    "materia": "INGLÉS",
+    "capitulo": 1,
+    "bloque": 1,
+    "tema": 1,
+    "titulo_tema": "INGLÉS",
+    "pregunta": "The \"power\" in military technology is:",
+    "opciones": [
+      "The influence of leaders.",
+      "The force or energy of weapons or equipment.",
+      "The number of soldiers.",
+      "The command chain."
+    ],
+    "correcta": 1,
+    "explicacion": "📚 Aplicado a tecnología y armamento, 'power' (potencia o poder de fuego) define la fuerza destructiva o capacidad técnica de los sistemas y equipos."
+  }
 ]
 
 
