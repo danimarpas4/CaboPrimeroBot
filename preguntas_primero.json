@@ -4959,6 +4959,390 @@
     },
     {
         "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 8,
+        "bloque": 2,
+        "tema": 8,
+        "titulo_tema": "La Prehistoria en España",
+        "pregunta": "🎨 ¿Qué características estéticas definen al arte parietal franco-cantábrico desarrollado durante el Paleolítico Superior (ej. Altamira)?",
+        "opciones": [
+            "Esquemático, monocromo y centrado en figuras humanas",
+            "Realista, polícromo y con representación de animales aislados",
+            "De pintura rupestre, realista, polícroma y con figuras aisladas",
+            "Narrativo, con escenas de caza y vida cotidiana"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 125. El arte franco-cantábrico, de pintura rupestre, realista,polícroma y con figuras aisladas. Se realizaba en el interior de lascuevas y nos descubre algunos rasgos mágico-religiosos de la mentalidad colectiva."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 9,
+        "bloque": 2,
+        "tema": 9,
+        "titulo_tema": "La Edad Antigua",
+        "pregunta": "🏛️ ¿Qué proceso histórico describe la asimilación de la lengua, el derecho y la administración del Imperio por los pueblos prerromanos?",
+        "opciones": [
+            "La Hispanización",
+            "La Romanización",
+            "La Celtización",
+            "La Visigodización"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 144. La Romanización es el proceso histórico-cultural mediante el cual los pueblos conquistados por Roma adquirieron la cultura y organización político-administrativa y económico-social que difunden los romanos."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 9,
+        "bloque": 2,
+        "tema": 9,
+        "titulo_tema": "La Edad Antigua",
+        "pregunta": "⛪ ¿Qué monarca visigodo consolidó la unidad religiosa de la Península al abandonar el arrianismo y abrazar el catolicismo en el año 589?",
+        "opciones": [
+             "Leovigildo",
+             "Alarico II",
+             "Recaredo",
+             "Recesvinto"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 149. Recaredo (586-601) logró la unidad religiosa al convertirse al catolicismo junto a su nobleza en el III Concilio de Toledo, abandonando la herejía arriana."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 10,
+        "bloque": 2,
+        "tema": 10,
+        "titulo_tema": "La Edad Media",
+        "pregunta": "☪️ ¿Qué hito proclamado en el año 929 marcó la independencia política y religiosa absoluta de Al-Ándalus respecto a Oriente?",
+        "opciones": [
+             "La fundación de la ciudad de Córdoba como capital del Califato",
+             "La construcción de la Mezquita de Córdoba como símbolo de poder",
+             "La autoproclamación de Abderramán III como Califa de Al-Ándalus",
+             "La firma del Tratado de Tudmir con los cristianos del norte"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 160. Abderramán III se autoproclamó Califa en el 929, rompiendo los vínculos religiosos con Bagdad y marcando el cénit del poder y esplendor andalusí."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 10,
+        "bloque": 2,
+        "tema": 10,
+        "titulo_tema": "La Edad Media",
+        "pregunta": "⚔️ ¿Qué trascendental batalla cristiana en el año 1212 quebró el poder de los almohades y abrió el avance hacia el sur peninsular?",
+        "opciones": [
+             "La Batalla de Covadonga",
+             "La Batalla de las Navas de Tolosa",
+             "La Batalla de Alarcos",
+             "La Batalla de Lepanto"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 164. La victoria aliada cristiana en Las Navas de Tolosa (1212) desintegró el dominio almohade y permitió la rápida reconquista del Valle del Guadalquivir."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 10,
+        "bloque": 2,
+        "tema": 10,
+        "titulo_tema": "La Edad Media",
+        "pregunta": "🐑 ¿Qué poderosa institución medieval fue amparada por la Corona de Castilla para regular los conflictos de la ganadería trashumante?",
+        "opciones": [
+             "El Honrado Concejo de la Mesta",
+             "La Hermandad de los Pastores",
+             "La Cofradía de los Ganaderos",
+             "El Consejo de la Trashumancia"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 168. El Honrado Concejo de la Mesta regulaba la ganadería ovina trashumante. La Corona protegió a los ganaderos frente a los agricultores por su alta rentabilidad."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 11,
+        "bloque": 2,
+        "tema": 11,
+        "titulo_tema": "La Edad Moderna",
+        "pregunta": "👑 ¿Qué concepto político define la alianza matrimonial forjada entre Isabel I de Castilla y Fernando II de Aragón?",
+        "opciones": [
+             "Unión de Coronas",
+             "Unión Dinástica",
+             "Unión de Reinos",
+             "Unión de Estados"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 180. Los Reyes Católicos formaron una 'unión dinástica': un vínculo personal donde cada reino conservaba sus fronteras, monedas, leyes e instituciones propias."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 11,
+        "bloque": 2,
+        "tema": 11,
+        "titulo_tema": "La Edad Moderna",
+        "pregunta": "📜 A inicios del reinado de Carlos I, el rechazo a su corte extranjera y a la fuerte presión fiscal desencadenó en 1520:",
+        "opciones": [
+             "La Guerra de las Comunidades en Castilla y la Rebelión de las Germanías en Valencia",
+             "La Guerra de Sucesión entre los partidarios de Carlos I y los defensores de Juana la Loca",
+             "La Rebelión de los Comuneros en Castilla",
+             "La Guerra de las Alpujarras entre moriscos y cristianos en Granada"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 185. Las Comunidades (Castilla) y Germanías (Valencia) se rebelaron en 1520 contra la corte flamenca de Carlos I y su política extractiva. Fueron derrotados."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 11,
+        "bloque": 2,
+        "tema": 11,
+        "titulo_tema": "La Edad Moderna",
+        "pregunta": "🛡️ ¿Cuál era el pilar ideológico de Felipe II, que lo obligaba a intervenir militarmente en defensa del catolicismo agotando la Hacienda?",
+        "opciones": [
+             "El Estado Absolutista",
+             "El Estado Centralista",
+             "El Estado Misional",
+             "El Estado Mercantilista"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 188. Es la defensa del catolicismo frente a sus enemigos, lo que provocarála intervención del Estado en todas las guerras de religión, sacrificando lariqueza del reino y el esfuerzo de los españoles."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 11,
+        "bloque": 2,
+        "tema": 11,
+        "titulo_tema": "La Edad Moderna",
+        "pregunta": "🏛️ ¿Qué monarca borbónico promulgó los Decretos de Nueva Planta, aboliendo los fueros de la Corona de Aragón e imponiendo el centralismo?",
+        "opciones": [
+             "Felipe V",
+             "Carlos III",
+             "Fernando VI",
+             "Carlos II"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 198. Felipe V, tras ganar la Guerra de Sucesión, impuso los Decretos de Nueva Planta, aboliendo los fueros aragoneses y centralizando el poder según el modelo castellano."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 12,
+        "bloque": 2,
+        "tema": 12,
+        "titulo_tema": "España Contemporánea",
+        "pregunta": "📖 Las Cortes de Cádiz sentaron las bases del liberalismo en España. ¿Qué principio fundamental se incluyó en la Constitución de 1812?",
+        "opciones": [
+             "La soberanía nacional y la separación de poderes",
+             "La monarquía absoluta y el derecho divino del rey",
+             "El federalismo y la autonomía de las regiones",
+             "El sufragio universal masculino y la igualdad social"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 209. La Constitución de 1812 (La Pepa) fue el primer intento de revolución liberal burguesa, declarando la soberanía nacional y la separación de poderes."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 12,
+        "bloque": 2,
+        "tema": 12,
+        "titulo_tema": "España Contemporánea",
+        "pregunta": "⚖️ ¿Qué medida reformista, dictada por el ministro Mendizábal (1836), expropió tierras del clero para sanear las cuentas del Estado?",
+        "opciones": [
+             "La Ley de Desamortización Eclesiástica",
+             "La Ley de Reforma Agraria",
+             "La Ley de Nacionalización de Bienes",
+             "La Ley de Expropiación Forzosa"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 213. La Desamortización de Mendizábal expropió y subastó propiedades religiosas para restar apoyo al carlismo y obtener fondos vitales para el Estado isabelino."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 12,
+        "bloque": 2,
+        "tema": 12,
+        "titulo_tema": "España Contemporánea",
+        "pregunta": "📜 Tras el caos del Sexenio Revolucionario (1868-1874), ¿quién diseñó el sistema político de la Restauración basado en el turno de partidos?",
+        "opciones": [
+             "Antonio Cánovas del Castillo",
+             "Emilio Castelar",
+             "Práxedes Mateo Sagasta",
+             "Leopoldo O'Donnell"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 217. Cánovas del Castillo fue el arquitecto de la Restauración borbónica de Alfonso XII, basando el sistema en la Constitución de 1876 y el turno pacífico de partidos."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 12,
+        "bloque": 2,
+        "tema": 12,
+        "titulo_tema": "España Contemporánea",
+        "pregunta": "⚔️ El 'Desastre del 98' marcó un fuerte trauma psicológico para la sociedad. ¿Qué territorios cedió España mediante el Tratado de París?",
+        "opciones": [
+             "Cuba, Puerto Rico, Filipinas y Guam",
+             "Cuba, Puerto Rico, Filipinas y las Islas Malvinas",
+             "Cuba, Puerto Rico, Filipinas y la isla de Pascua",
+             "Cuba, Puerto Rico, Filipinas y las Islas Canarias"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 218. En la Paz de París (1898), España concedió la independencia a Cuba y cedió a Estados Unidos los dominios de Puerto Rico, Filipinas y la isla de Guam."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 13,
+        "bloque": 2,
+        "tema": 13,
+        "titulo_tema": "España en el Siglo XX",
+        "pregunta": "🎖️ Ante la gravísima crisis política y militar de 1923, ¿quién instauró un Directorio Militar clausurando el sistema de la Restauración?",
+        "opciones": [
+             "Samuel Primo de Rivera",
+             "Francísco Franco Bahamonde",
+             "Miguel Primo de Rivera",
+             "Francísco Franco Bajamonde"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 226. El 13 de septiembre de 1923, el general Primo de Rivera ejecutó un golpe de Estado con el beneplácito de Alfonso XIII, instaurando una dictadura hasta 1930."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 13,
+        "bloque": 2,
+        "tema": 13,
+        "titulo_tema": "España en el Siglo XX",
+        "pregunta": "🗳️ ¿Cuál fue el hito político más rompedor de la Constitución de 1931 aprobada durante los inicios de la Segunda República?",
+        "opciones":  [
+             "El establecimiento de un sistema federal con autonomía plena para las regiones",
+             "El reconocimiento legal del sufragio universal femenino",
+             "La instauración de una monarquía parlamentaria con un rey simbólico",
+             "La abolición de la propiedad privada y la instauración del comunismo"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 227. La Constitución de 1931 estableció cortes unicamerales, un Estado laico y, como gran hito social, el derecho al voto a las mujeres por primera vez en España."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 13,
+        "bloque": 2,
+        "tema": 13,
+        "titulo_tema": "España en el Siglo XX",
+        "pregunta": "🛡️ En la arquitectura institucional del Régimen Franquista, ¿cómo se elegían formalmente los escaños de los procuradores en Cortes?",
+        "opciones": [
+             "Mediante sufragio universal directo con listas abiertas",
+             "A través de elecciones municipales con listas cerradas",
+             "Bajo el modelo de 'democracia orgánica' por familia, municipio y sindicato vertical",
+             "Por designación directa del jefe del Estado sin ningún proceso electoral"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 232. El franquismo rechazaba la democracia liberal. Los procuradores se elegían bajo el modelo de 'democracia orgánica', usando la familia, municipio y sindicato vertical."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 13,
+        "bloque": 2,
+        "tema": 13,
+        "titulo_tema": "España en el Siglo XX",
+        "pregunta": "🏭 Durante los años 60, el franquismo abandonó la autarquía tras el Plan de Estabilización. ¿Cómo se conoce a esta etapa de rápido crecimiento?",
+        "opciones": [
+             "El 'Desarrollismo'",
+             "El 'Progreso'",
+             "El 'Avance'",
+             "El 'Crecimiento'"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 235. El 'Desarrollismo' fue un periodo de crecimiento desequilibrado en los años 60, estimulado por el turismo, la inversión extranjera y el éxodo masivo a las urbes."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 13,
+        "bloque": 2,
+        "tema": 13,
+        "titulo_tema": "España en el Siglo XX",
+        "pregunta": "📜 Durante la Transición (1975-1982), ¿quién fue nombrado presidente del Gobierno impulsando decisivamente la Ley para la Reforma Política?",
+        "opciones": [
+             "Adolfo Suárez",
+             "Leopoldo Calvo Sotelo",
+             "Felipe González",
+             "Manuel Fraga Iribarne"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 238-239. Adolfo Suárez, nombrado por Juan Carlos I en 1976, pilotó la Transición legalizando los partidos e impulsando la Ley para la Reforma Política y la Constitución."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 9,
+        "bloque": 2,
+        "tema": 9,
+        "titulo_tema": "La Edad Antigua",
+        "pregunta": "🗺️ ¿Cómo dividió territorialmente el emperador Augusto a Hispania al finalizar la conquista en el año 27 a.C.?",
+        "opciones": [
+             "En dos provincias: Citerior al norte y Ulterior al sur",
+             "En tres provincias: Tarraconensis, Bética y Lusitania",
+             "En cuatro provincias: Tarraconensis, Bética, Lusitania y Gallaecia",
+             "En cinco provincias: Tarraconensis, Bética, Lusitania, Gallaecia y Cartaginensis"
+        ],
+        "correcta": 3,
+        "explicacion": "📚 Pág 145. La Ulterior se dividió en dos: la Bética, con capital en Córdoba, y la Lusitania, con capital en Emerita Augusta; y la Citerior en otras dos, la Tarraconensis, con capital en Tarraco, y la Gallaecia, con capital en Bracara. Por último, se volvió a dividir la Tarraconensis por toda su mitad sur, para formar la Carthaginensis, con capital en Cartago Nova."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 11,
+        "bloque": 2,
+        "tema": 11,
+        "titulo_tema": "La Edad Moderna",
+        "pregunta": "🚢 ¿Qué institución se fundó en 1503 para centralizar y monopolizar el comercio y tráfico de metales preciosos con el Nuevo Mundo?",
+        "opciones": [
+             "La Casa de Contratación de Sevilla",
+             "La Real Hacienda de Indias",
+             "El Consejo de Indias",
+             "La Compañía de las Indias Orientales"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 201. La Casa de Contratación, establecida en Sevilla en 1503, controló monopolísticamente todo el comercio, expediciones y flujos de plata provenientes de América."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 12,
+        "bloque": 2,
+        "tema": 12,
+        "titulo_tema": "España Contemporánea",
+        "pregunta": "👑 A la muerte de Fernando VII en 1833, su hija Isabel II era una niña. ¿Qué facción política apoyó a la reina madre María Cristina en la regencia?",
+        "opciones": [
+             "Los absolutistas, que defendían el Antiguo Régimen",
+             "Los liberales, que defendían la Constitución de 1812",
+             "Los carlistas, que apoyaban al hermano del rey, Carlos María Isidro",
+             "Los republicanos, que abogaban por la abolición de la monarquía"
+        ],
+        "correcta": 1,
+        "explicacion": "📚 Pág 212. Ante la Primera Guerra Carlista (1833-1839) impulsada por los absolutistas, la regente María Cristina se apoyó forzosamente en los liberales para defender el trono."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 13,
+        "bloque": 2,
+        "tema": 13,
+        "titulo_tema": "España en el Siglo XX",
+        "pregunta": "💣 ¿Qué huelga general desencadenaron las fuerzas políticas de izquierdas en toda España en respuesta a la entrada de ministros de la CEDA en el gobierno a comienzos de 1934?",
+        "opciones": [
+             "La Guerra Civil Española",
+             "La Revolución de Asturias y el Estado Catalán",
+             "La Revolución de Octubre de 1934",
+             "La Revolución de los Claveles"
+        ],
+        "correcta": 2,
+        "explicacion": "📚 Pág 229.  Es la llamada Revolución de Octubre de 1934."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
+        "capitulo": 13,
+        "bloque": 2,
+        "tema": 13,
+        "titulo_tema": "España en el Siglo XX",
+        "pregunta": "🛡️ ¿Cuál fue el último escollo violento que superó la Transición el 23 de febrero de 1981 durante la sesión de investidura de Calvo Sotelo?",
+        "opciones": [
+             "Un intento de golpe de Estado por parte de un sector del ejército liderado por el teniente coronel Tejero",
+             "Una insurrección armada de ETA en el País Vasco",
+             "Un atentado terrorista de la banda GRAPO en Madrid",
+             "Una manifestación masiva de apoyo a la monarquía en Barcelona"
+        ],
+        "correcta": 0,
+        "explicacion": "📚 Pág 240. El 23-F de 1981, el teniente coronel Tejero intentó un golpe de Estado. El fracaso de este afianzó definitivamente el modelo democrático del Rey Juan Carlos I."
+    },
+    {
+        "materia": "GEOGRAFÍA E HISTORIA",
         "capitulo": 7,
         "bloque": 1,
         "tema": 7,
@@ -6042,7 +6426,7 @@
       "To repair vehicles",
       "To deliver supplies"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 Un 'sentry' (centinela) es un soldado estacionado para hacer guardia, observar el perímetro y controlar el acceso a una posición."
   },
   {
@@ -6058,7 +6442,7 @@
       "Support the enemy",
       "Communicate with allies"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To seize' significa tomar el control o capturar un objetivo táctico o estratégico, normalmente por la fuerza."
   },
   {
@@ -6074,7 +6458,7 @@
       "The barrel of a tank",
       "The sighting instrument"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 En armamento militar, 'fuse' (espoleta o mecha) es el mecanismo o dispositivo responsable de iniciar la detonación de un explosivo."
   },
   {
@@ -6090,7 +6474,7 @@
       "Col.",
       "Capt."
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 La abreviatura militar estándar en inglés para Lieutenant Colonel (Teniente Coronel) es Lt. Col."
   },
   {
@@ -6106,7 +6490,7 @@
       "To retreat after an assault",
       "To organize supplies"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To patrol' (patrullar) consiste en vigilar un área designada moviéndose a través de ella para mantener la seguridad."
   },
   {
@@ -6122,7 +6506,7 @@
       "The training ground",
       "The field hospital"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 'Headquarters' (frecuentemente abreviado como HQ) se refiere al cuartel general o centro de mando principal de una unidad militar."
   },
   {
@@ -6138,7 +6522,7 @@
       "Retreat from it",
       "Cease fire"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To fortify' (fortificar) significa reforzar o fortalecer una posición militar contra ataques enemigos mediante barreras u hombres."
   },
   {
@@ -6154,7 +6538,7 @@
       "The commander’s station",
       "All of the above"
     ],
-    "correcta": 4,
+    "correcta": 3,
     "explicacion": "📚 Todas estas partes (torreta, compartimiento del motor, puesto del comandante) forman parte del espacio interior de un vehículo militar."
   },
   {
@@ -6170,7 +6554,7 @@
       "To withdraw troops",
       "To support a front line"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 'To encircle' (cercar o rodear) es una táctica que consiste en aislar completamente al enemigo rodeándolo por todos los lados."
   },
   {
@@ -6186,7 +6570,7 @@
       "To communicate",
       "To trigger explosives"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 Un 'laser aiming device' (dispositivo de puntería láser) se utiliza para apuntar las armas con gran precisión sobre el objetivo."
   },
   {
@@ -6202,7 +6586,7 @@
       "Pull back or retreat",
       "Reinforce"
     ],
-    "correcta": 3,
+    "correcta": 2,
     "explicacion": "📚 'To withdraw' (retirarse) significa replegarse, dar un paso atrás o alejarse de una posición o del contacto directo con el enemigo."
   },
   {
@@ -6218,7 +6602,7 @@
       "The rear line",
       "The command post"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'The flank' (el flanco) se refiere a las partes laterales (izquierda o derecha) de una formación o posición militar."
   },
   {
@@ -6234,7 +6618,7 @@
       "Captain",
       "Colonel"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 En la cadena de mando, un 'Staff Sergeant' (Sargento de Estado Mayor) es el grado de suboficial inmediatamente superior al 'Sergeant'."
   },
   {
@@ -6250,7 +6634,7 @@
       "A small explosive projectile fired from a mortar",
       "A rifle"
     ],
-    "correcta": 3,
+    "correcta": 2,
     "explicacion": "📚 Un 'mortar shell' (proyectil de mortero) es la munición explosiva específica que se introduce y dispara desde un mortero."
   },
   {
@@ -6266,7 +6650,7 @@
       "Guard the perimeter",
       "Support the attack"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To lead' (liderar, dirigir o mandar) significa estar al mando y guiar a otras tropas, especialmente durante las operaciones de combate."
   },
   {
@@ -6282,7 +6666,7 @@
       "To surround",
       "To retreat"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To breach' (abrir una brecha) significa romper, atravesar o penetrar una barrera física, obstáculo o defensa del adversario."
   },
   {
@@ -6298,7 +6682,7 @@
       "Attacking the enemy directly",
       "Supplying ammunition"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'Recon' es la abreviatura de 'reconnaissance' (reconocimiento), que consiste en explorar el terreno sigilosamente para recopilar inteligencia militar."
   },
   {
@@ -6314,7 +6698,7 @@
       "Prepare for it",
       "Delay it"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To execute' (ejecutar) una orden o un plan táctico significa llevarlo a cabo, implementarlo o realizar la acción encomendada."
   },
   {
@@ -6330,7 +6714,7 @@
       "Heavy artillery",
       "Water supplies"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 El equipo de visión nocturna ('night vision equipment') es vital e indispensable para poder operar y combatir en la oscuridad ('night combat')."
   },
   {
@@ -6346,7 +6730,7 @@
       "The attack front",
       "The training ground"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 Un 'depot' (depósito) militar es una instalación logística utilizada para almacenar y distribuir suministros, vehículos o municiones."
   },
   {
@@ -6362,7 +6746,7 @@
       "To escalate",
       "To run away from it"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To neutralize' (neutralizar) implica inhabilitar o suprimir el fuego enemigo para que deje de ser efectivo o amenazante."
   },
   {
@@ -6378,7 +6762,7 @@
       "The area where fighting takes place",
       "Training grounds"
     ],
-    "correcta": 3,
+    "correcta": 2,
     "explicacion": "📚 El 'battlefield' (campo de batalla) es el entorno o el área física concreta donde se desarrollan los combates."
   },
   {
@@ -6394,7 +6778,7 @@
       "Cooking",
       "Reconnaissance"
     ],
-    "correcta": 3,
+    "correcta": 2,
     "explicacion": "📚 Aunque la alimentación es vital, 'cooking' (cocinar) forma parte de la logística rutinaria, no de una operación táctica militar directa."
   },
   {
@@ -6410,7 +6794,7 @@
       "Leave it",
       "Destroy it"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To secure' (asegurar) una posición significa garantizar que esté limpia de amenazas, firmemente protegida y bajo control."
   },
   {
@@ -6426,7 +6810,7 @@
       "Withdraw",
       "Seek reinforcements"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To support' (apoyar) es la acción de dar respaldo, fuego de cobertura o ayuda a otras unidades para que logren su objetivo."
   },
   {
@@ -6442,7 +6826,7 @@
       "A transport convoy",
       "A training session"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 Una 'mission' (misión) es una tarea u operación claramente definida que se le asigna a un individuo o unidad militar."
   },
   {
@@ -6458,7 +6842,7 @@
       "Captain",
       "Private"
     ],
-    "correcta": 3,
+    "correcta": 2,
     "explicacion": "📚 Un 'Captain' (Capitán) es un oficial comisionado. Sargentos y Cabos son Suboficiales (NCOs) y Soldados respectivamente."
   },
   {
@@ -6474,7 +6858,7 @@
       "Retreat from the front",
       "Resupply troops"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 Patrullar un sector implica moverse a través de él para mantener vigilancia continua, defenderlo y recopilar inteligencia."
   },
   {
@@ -6490,7 +6874,7 @@
       "To support their movement",
       "To leave the front line"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 'To encircle' (cercar) al enemigo significa atraparlo dentro de un perímetro, impidiendo su escape al rodearlo por todos sus flancos."
   },
   {
@@ -6506,7 +6890,7 @@
       "Vehicles",
       "Food supplies"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 Los equipos de radio y transmisión de señales ('Radio and signal equipment') son la columna vertebral de las comunicaciones militares."
   },
   {
@@ -6522,7 +6906,7 @@
       "To disarm",
       "To retreat"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To reinforce' (reforzar) significa fortalecer y asegurar una posición o unidad aportando tropas, suministros o armamento adicional."
   },
   {
@@ -6538,7 +6922,7 @@
       "The weapons used",
       "The battlefield terrain"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'The command' (el mando) se refiere a la autoridad legítima otorgada a un líder militar para dirigir y controlar una operación u hombres."
   },
   {
@@ -6554,7 +6938,7 @@
       "The aircraft carrier",
       "The war room"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 Un 'element' (elemento) es una parte constitutiva más pequeña que forma parte de una unidad militar mayor, como un pelotón o escuadra."
   },
   {
@@ -6570,7 +6954,7 @@
       "The military base",
       "An artillery piece"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 Una 'squad' (escuadra) es generalmente la agrupación táctica más pequeña en las fuerzas armadas, habitualmente compuesta por menos de 10 efectivos."
   },
   {
@@ -6586,7 +6970,7 @@
       "To hide from the opponent",
       "To stay back and defend"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 'To pursue' (perseguir) implica iniciar una persecución activa sobre un enemigo en retirada para capturarlo o destruirlo definitivamente."
   },
   {
@@ -6602,7 +6986,7 @@
       "To retreat in confusion",
       "To reinforce a position"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To break through' (romper las líneas) significa avanzar forzando el paso a través de las defensas establecidas por el enemigo."
   },
   {
@@ -6618,7 +7002,7 @@
       "Support an attack",
       "Retreat quickly"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To flank' (flanquear) a un oponente es rodearlo para atacarlo desde los flancos (lados) o la retaguardia, evitando su defensa frontal."
   },
   {
@@ -6634,7 +7018,7 @@
       "Badge",
       "Socks"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 'Helm' se refiere al timón de un barco. El término correcto para referirse al casco militar es 'Helmet'. Por tanto, no pertenece al uniforme."
   },
   {
@@ -6650,7 +7034,7 @@
       "To start a drill",
       "To evacuate troops"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 En operaciones militares, 'to land' (desembarcar/aterrizar) es la acción de llegar al terreno firme proviniendo desde el mar o el aire."
   },
   {
@@ -6666,7 +7050,7 @@
       "Retreat",
       "Hold position"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 'March off' (marchar) indica el inicio del movimiento organizado y ordenado de las tropas en formación táctica."
   },
   {
@@ -6682,7 +7066,7 @@
       "Barracks",
       "Gun"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "📚 Las señales visuales, acústicas o de radio ('Signal') son un elemento clave para la coordinación y comunicación en el entorno militar."
   },
   {
@@ -6698,7 +7082,7 @@
       "To withdraw support",
       "To secure a perimeter"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To move in' (adentrarse o internarse) significa aproximarse o entrar físicamente en una zona, área o edificio objetivo."
   },
   {
@@ -6714,7 +7098,7 @@
       "To attack immediately",
       "To retreat under orders"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "explicacion": "📚 'To declare' (declarar, como en declarar la guerra o una zona hostil) significa hacer un pronunciamiento o anuncio formal y oficial."
   },
   {
@@ -6730,7 +7114,7 @@
       "Socks",
       "All of the above"
     ],
-    "correcta": 4,
+    "correcta": 3,
     "explicacion": "📚 Tanto el casco ('Helmet'), la guerrera/blusa de combate ('Blouse') como los calcetines ('Socks') forman parte del equipo y vestimenta del soldado."
   },
   {
