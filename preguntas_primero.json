@@ -36,7 +36,7 @@
         "titulo_tema": "Reales Ordenanzas",
         "pregunta": "[RROO] En las RROO, dentro del espíritu militar, son pruebas de gran desidia e ineptitud para la carrera de las armas:",
         "opciones": ["Contentarse regularmente con hacer lo preciso de su deber", "El llegar tarde a su obligación, aunque sea de minutos", "Excusarse con males imaginarios o supuestos de las fatigas que le corresponden", "Todas son correctas"],
-        "correcta": 4,
+        "correcta": 3,
         "explicacion": "📚 Artículo 14.\nEl militar cuyo propio honor y espíritu no le estimulen a obrar siempre bien, vale muy poco para el servicio; el llegar tarde a su obligación, aunque sea de minutos; el excusarse con males imaginarios o supuestos de..."
     },
     {
@@ -46,7 +46,7 @@
         "titulo_tema": "Reales Ordenanzas",
         "pregunta": "[RROO] Tiene su expresión colectiva en el acatamiento a la Constitución y su manifestación individual en el cumplimiento de las órdenes recibidas, ¿a qué se refiere esta definición?",
         "opciones": ["Cohesión", "Obediencia debida", "Jerarquía", "Disciplina"],
-        "correcta": 4,
+        "correcta": 3,
         "explicacion": "📚 Artículo 8.\nLa disciplina, factor de cohesión que obliga a mandar con responsabilidad y a obedecer lo mandado, será practicada y exigida en las FFAAS como norma de actuación."
     },
     {
@@ -1981,7 +1981,7 @@
         "Si.",
         "No."
     ],
-    "correcta": 4,
+    "correcta": 3,
     "explicacion": "📚 Art 4.\n La iniciación de un procedimiento penal no impedirá la incoación y tramitación de expedientes disciplinarios por los mismos hechos"
     },
     {
